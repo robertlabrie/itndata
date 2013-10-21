@@ -1,4 +1,5 @@
 <?php
+/*
 $blah = "";
 	$comment = "*'''Oppose'''. Even if this was a retirement from all forms of cricket, I would still oppose due to fear of setting a precedent we later regret.I can't see this being posted, but I'll explain my reasoning for the benefit of those who aren't sure whether or not to nominate other retirements in future. Don Bradman would be setting the bar too high, but the problem with going much lower is that there are too many other sportsmen of a similar age who could make a similarly strong case for posting. Sticking to cricket, Ponting was an extremely successful captain despite his Ashes record, but should we also have posted all of Graeme Smith, Steve Waugh, Michael Vaughan and Andrew Strauss? Batting wise he's in the class of Lara, Tendulkar, Dravid and Kallis, but should we post all of their retirements? Most of the second list were captains, and most of the first list were fantastic batsmen. And that's not even considering people from other sports with a comparable or level of interest from the English-speaking world.I would definitely support Alex Ferguson &ndash; almost certainly the best manager or head coach in ''any'' sport in the last generation and a half, and to my knowledge he has never appeared on the Main Page. The only other person I would probably support would be Roger Federer, due to the general consensus on his status within tennis &ndash; but even then I'd have a second thought due to his prior prominence on ITN. I might have considered Michael Schumacher in 2006, Tiger Woods had he called it a day a few years ago, and there may be comparable figures to the above in sports that I'm less interested in. For what it's worth I would vote against Tendulkar, on the basis that we posted the two things that set him apart from Ponting.Sorry for the long-winded post, but I hope that helps others understand where I come from on sporting retirements. â[[User talk:WaitingForConnection|WFC]]â '''[[User:WaitingForConnection/FL wishlist|FL wishlist]]''' 08:25, 1 December 2012 (UTC)";
 	//$comment = "*''' Oppose''' I dont like it";
@@ -10,6 +11,7 @@ $blah = "";
 		if (preg_match("/'''(\w| *?)" . $vote . "(\w| *?)'''/i",$comment)) { echo "$vote\n";}
 	}
 die();
+*/
 $data = file_get_contents("201211.txt");
 
 
