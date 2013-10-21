@@ -131,7 +131,7 @@ function mwVote($comment)
  */
 function mwSig($sign)
 {
-	echo "$sign\n";
+	//echo "$sign\n";
 	//return blank array if there is nothing to process
 	if (!$sign) { return Array(); }
 	$out = Array();
