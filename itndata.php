@@ -1,15 +1,11 @@
 <?php
 /*
-$blah = "";
-	$comment = "*'''Oppose'''. Even if this was a retirement from all forms of cricket, I would still oppose due to fear of setting a precedent we later regret.I can't see this being posted, but I'll explain my reasoning for the benefit of those who aren't sure whether or not to nominate other retirements in future. Don Bradman would be setting the bar too high, but the problem with going much lower is that there are too many other sportsmen of a similar age who could make a similarly strong case for posting. Sticking to cricket, Ponting was an extremely successful captain despite his Ashes record, but should we also have posted all of Graeme Smith, Steve Waugh, Michael Vaughan and Andrew Strauss? Batting wise he's in the class of Lara, Tendulkar, Dravid and Kallis, but should we post all of their retirements? Most of the second list were captains, and most of the first list were fantastic batsmen. And that's not even considering people from other sports with a comparable or level of interest from the English-speaking world.I would definitely support Alex Ferguson &ndash; almost certainly the best manager or head coach in ''any'' sport in the last generation and a half, and to my knowledge he has never appeared on the Main Page. The only other person I would probably support would be Roger Federer, due to the general consensus on his status within tennis &ndash; but even then I'd have a second thought due to his prior prominence on ITN. I might have considered Michael Schumacher in 2006, Tiger Woods had he called it a day a few years ago, and there may be comparable figures to the above in sports that I'm less interested in. For what it's worth I would vote against Tendulkar, on the basis that we posted the two things that set him apart from Ponting.Sorry for the long-winded post, but I hope that helps others understand where I come from on sporting retirements. â[[User talk:WaitingForConnection|WFC]]â '''[[User:WaitingForConnection/FL wishlist|FL wishlist]]''' 08:25, 1 December 2012 (UTC)";
-	//$comment = "*''' Oppose''' I dont like it";
-	echo preg_match("/'''(\w| *?)pull(\w| *?)'''/i",$comment);
-	echo "\n";
-	foreach (Array('support','oppose','comment','question','pull','post') as $vote)
-	{
-		//if (preg_match("/'''(.*\w)" . $vote . "(.*?)'''/i",$comment)) { echo "$vote\n"; break;}
-		if (preg_match("/'''(\w| *?)" . $vote . "(\w| *?)'''/i",$comment)) { echo "$vote\n";}
-	}
+$comment = "*'''Oppose'''. Even if this was a retirement from all forms of cricket, I would still oppose due to fear of setting a precedent we later regret.I can't see this being posted, but I'll explain my reasoning for the benefit of those who aren't sure whether or not to nominate other retirements in future. Don Bradman would be setting the bar too high, but the problem with going much lower is that there are too many other sportsmen of a similar age who could make a similarly strong case for posting. Sticking to cricket, Ponting was an extremely successful captain despite his Ashes record, but should we also have posted all of Graeme Smith, Steve Waugh, Michael Vaughan and Andrew Strauss? Batting wise he's in the class of Lara, Tendulkar, Dravid and Kallis, but should we post all of their retirements? Most of the second list were captains, and most of the first list were fantastic batsmen. And that's not even considering people from other sports with a comparable or level of interest from the English-speaking world.I would definitely support Alex Ferguson &ndash; almost certainly the best manager or head coach in ''any'' sport in the last generation and a half, and to my knowledge he has never appeared on the Main Page. The only other person I would probably support would be Roger Federer, due to the general consensus on his status within tennis &ndash; but even then I'd have a second thought due to his prior prominence on ITN. I might have considered Michael Schumacher in 2006, Tiger Woods had he called it a day a few years ago, and there may be comparable figures to the above in sports that I'm less interested in. For what it's worth I would vote against Tendulkar, on the basis that we posted the two things that set him apart from Ponting.Sorry for the long-winded post, but I hope that helps others understand where I come from on sporting retirements. â[[User talk:WaitingForConnection|WFC]]â '''[[User:WaitingForConnection/FL wishlist|FL wishlist]]''' 08:25, 1 December 2012 (UTC)";
+foreach (Array('support','oppose','comment','question','pull','post') as $vote)
+{
+	//if (preg_match("/'''(.*\w)" . $vote . "(.*?)'''/i",$comment)) { echo "$vote\n"; break;}
+	if (preg_match("/'''(\w*?| *?)" . $vote . "(\w*?| *?)'''/i",$comment)) { echo "$vote\n";}
+}
 die();
 */
 $data = file_get_contents("201211.txt");
@@ -31,6 +27,8 @@ $data = preg_replace("/\{\{hab(.*?)\}\}/s","",$data);
 $noms = explode("\n===",$data);
 
 //the first entry is garbage
+array_shift($noms);
+array_shift($noms);
 array_shift($noms);
 array_shift($noms);
 
@@ -84,23 +82,33 @@ foreach ($noms as $nom)
 		
 		//work out the details of the vote
 		$vote = mwVote($comment);
+		//echo "$comment\n"; print_r($vote);
 		
 		//track the time stop/last through the process
-		if ($vote['stamp'] > $item['time_stop']) { $item['time_stop'] = $vote['stamp']; }
 		if ($vote['stamp'] > $item['time_last']) { $item['time_last'] = $vote['stamp']; }
 		
 		//stack the votes onto an array
-		if (isset($vote['vote'])) { array_push($item['votes'],$vote); }
+		if ((isset($vote['vote'])) && (isset($vote['name'])))
+		{
+			array_push($item['votes'],$vote);
+			
+			//set the stop time at post time, though maybe there was more discussion
+			if ($vote['vote'] == 'post') { $item['time_stop'] = $vote['stamp']; }
+		}
 	}
+	
+	//if never posted, then it stopped at the last comment
+	if ($item['time_stop'] == 0) { $item['time_stop'] = $item['time_last']; }
 	
 	//if the nom actually signed the template, we can use it to track the time the nom
 	//was started
 	if (isset($item['sign']))
 	{
-		echo $item['sign'] . "\n";
+		//echo $item['sign'] . "\n";
 		$sign = mwSig($item['sign']);
 		$item['time_started'] = $sign['stamp'];
 	}
+	unset($item['votes']);
 	print_r($item);
 	die();
 }
@@ -109,9 +117,9 @@ function mwVote($comment)
 	$out = Array();
 	$out['comment'] = $comment;
 	$user = mwSig($comment);
-	foreach (Array('support','oppose','comment','question','pull','post') as $vote)
+	foreach (Array('support','oppose','comment','question','pull','post','neutral') as $vote)
 	{
-		if (preg_match("/'''(\w| *?)" . $vote . "(\w| *?)'''/i",$comment)) { $user['vote'] = $vote; }
+		if (preg_match("/'''(\w*?| *?)" . $vote . "(\w*?| *?)'''/i",$comment)) { $user['vote'] = $vote; }
 	}
 	return $user;
 }
@@ -123,6 +131,7 @@ function mwVote($comment)
  */
 function mwSig($sign)
 {
+	echo $sign;
 	//return blank array if there is nothing to process
 	if (!$sign) { return Array(); }
 	$out = Array();
