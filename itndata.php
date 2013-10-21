@@ -8,13 +8,14 @@ foreach (Array('support','oppose','comment','question','pull','post') as $vote)
 }
 die();
 */
-$data = file_get_contents("201211.txt");
+//$data = file_get_contents("201211.txt");
+$data = file_get_contents("test.txt");
 
 
 
 
 //strip out HTML comments (heavily used in template)
-$data = preg_replace("/<!--(.*?)-->/","",$data);
+//$data = preg_replace("/<!--(.*?)-->/","",$data);
 
 //strip out striken comments
 $data = preg_replace("/<strike>(.*?)<\/strike>/","",$data);
@@ -28,14 +29,11 @@ $noms = explode("\n===",$data);
 
 //the first entry is garbage
 array_shift($noms);
-array_shift($noms);
-array_shift($noms);
-array_shift($noms);
 
 //loop through each nom
 foreach ($noms as $nom)
 {
-
+	//echo "$nom\n";
 	$item = Array();
 	$item['hash'] = md5($nom);
 	//$nom = preg_replace("/[\x00-\x1F\x80-\xFF]/s", '', $nom);
@@ -49,6 +47,7 @@ foreach ($noms as $nom)
 
 	//planned to use RegEx for this but it was being a pain so F-regex
 	$template = $nom;
+	echo "$template\n";
 	$template = substr($template,strpos($template,"{{ITN candidate")+15);
 	$template = substr($template,0,strpos($template,"}}"));
 	$template = trim($template);
@@ -95,6 +94,11 @@ foreach ($noms as $nom)
 			//set the stop time at post time, though maybe there was more discussion
 			if ($vote['vote'] == 'post') { $item['time_stop'] = $vote['stamp']; }
 		}
+		if ((isset($vote['vote'])) && ($vote['vote'] != 'post'))
+		{
+			$item['vote_' . $vote['vote']]++;
+			$item['vote_total']++;
+		}
 	}
 	
 	//if never posted, then it stopped at the last comment
@@ -109,8 +113,8 @@ foreach ($noms as $nom)
 		$item['time_started'] = $sign['stamp'];
 	}
 	unset($item['votes']);
-	//print_r($item);
-	echo $item['ltitle'] . "\n";
+	print_r($item);
+	//echo $item['ltitle'] . "\n";
 	//die();
 }
 function mwVote($comment)
