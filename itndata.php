@@ -109,7 +109,8 @@ foreach ($noms as $nom)
 		$item['time_started'] = $sign['stamp'];
 	}
 	unset($item['votes']);
-	print_r($item);
+	//print_r($item);
+	echo $item['ltitle'] . "\n";
 	//die();
 }
 function mwVote($comment)
