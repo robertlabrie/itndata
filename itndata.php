@@ -8,8 +8,8 @@ foreach (Array('support','oppose','comment','question','pull','post') as $vote)
 }
 die();
 */
-//$data = file_get_contents("201211.txt");
-$data = file_get_contents("test.txt");
+
+$data = file_get_contents($argv[1]);
 
 
 
