@@ -1,50 +1,28 @@
 
 
-====[Posted] 2012 Japan Series====
+====Death: Bill Dees====
+{{Archive top 
+|result = Withdrawn [[User:Doktorbuk|doktorb]] <sub>[[User talk:Doktorbuk|words]]</sub><sup>[[Special:Contributions/Doktorbuk|deeds]]</sup> 15:20, 1 November 2012 (UTC)
+|status = Withdrawn}}
+
 {{ITN candidate
-| article      = 2012 Japan Series
+| article      = Bill Dees<!-- Do not wikilink -->
 | article2     = <!-- Do not wikilink - leave blank if nominating only one article -->
-| blurb        = In [[baseball]], the [[San Francisco Giants]] defeat the [[Detroit Tigers]] to win the '''[[2012 World Series|World Series]]''', and the [[Yomiuri Giants]] defeat the [[Hokkaido Nippon-Ham Fighters]] to win the '''[[2012 Japan Series|Japan Series]]'''.
+| blurb        = Songwriter Bill Dees dies<!-- Add your suggestion of the blurb; should be written in simple present tense. -->
 | recent deaths= <!-- (yes/no); instead of specifying a blurb the nomination can be for the "Recent deaths" line -->
-| altblurb     = In [[baseball]], the [[Yomiuri Giants]] defeat the [[Hokkaido Nippon-Ham Fighters]] to win the '''[[2012 Japan Series|Japan Series]]'''.
-| sources      = [http://www.japantimes.co.jp/text/sb20121104j1.html The Japan Times],
-| updated      = <!-- yes
+| altblurb     = <!-- An alternative blurb. Leave blank if not needed -->
+| sources      = http://www.bbc.co.uk/news/entertainment-arts-20165752 (BBC)<!-- Include a reference from a verifiable, reliable source. -->
+| updated      = <!-- (yes/no); we usually require at least five sentences. Leave blank if you aren't sure -->
 | updated2     = <!-- (yes/no); only if there's a second article and article2 is filled in! Leave blank if unsure -->
-| nominator    = Torsodog <!-- Do NOT change this -->
-| updater      = Torsodog
+| nominator    = Doktorbuk <!-- Do NOT change this -->
+| updater      = <!-- Should be filled with the username of the person who has contributed the most to updates. -->
 | updater2     = <!-- if more than one updater -->
 | updater3     = <!-- if more than two updaters -->
-| ITNR         = yes
-| note         = This is just a proposal to add to the current World Series blurb.
+| ITNR         = no <!-- 'No' by default. Only put in 'yes' if the event is listed at Wikipedia:In the news/Recurring events. -->
+| note         = <!-- Can be used to note potential problems with the nomination or article. -->
 | nom cmt      = <!-- Add the reason for nominating the item. -->
-| sign         = ---- --[[User:Torsodog|<font color="#000000">'''T'''</font><font color="#993300">orsodo</font><font color="#000000">'''g'''</font>]]<sup>[[User talk:Torsodog|Talk]]</sup> 17:32, 3 November 2012 (UTC)
+| sign         = --[[User:Doktorbuk|doktorb]] <sub>[[User talk:Doktorbuk|words]]</sub><sup>[[Special:Contributions/Doktorbuk|deeds]]</sup> 11:29, 1 November 2012 (UTC) <!-- Do NOT change this -->
 }}
-
-*'''Support''' standalone blurb. There's no need to combine this with the American one, since it is due to drop off the template anyway. --[[User:Bongwarrior|Bongwarrior]] ([[User talk:Bongwarrior|talk]]) 17:44, 3 November 2012 (UTC)
-*'''Oppose''' National championship in a nation that is not the principle country playing  the game.  Was added to ITN/R with no discussion, therefore no established consensus, therefore principle of consensus for sufficient importance has not been pre-established.  Was not on ITN in 2010 or 2011.  [[User:Kevin McE|Kevin McE]] ([[User talk:Kevin McE|talk]]) 18:11, 3 November 2012 (UTC)
-**What makes the World Series anything other than a "National championship"? And what makes a country the "principle country" of a sport? --[[User:Torsodog|<font color="#000000">'''T'''</font><font color="#993300">orsodo</font><font color="#000000">'''g'''</font>]]<sup>[[User talk:Torsodog|Talk]]</sup> 18:15, 3 November 2012 (UTC)
-**Also, I'm not trying to be a smartass here, I'm honestly asking. I read my comment again and wanted to make sure it didn't come off that way. I just don't understand why we wouldn't add this to a blurb starting with "In baseball..." Why not add the second most important baseball championship to the blurb to give a more international view of the sport? --[[User:Torsodog|<font color="#000000">'''T'''</font><font color="#993300">orsodo</font><font color="#000000">'''g'''</font>]]<sup>[[User talk:Torsodog|Talk]]</sup> 18:28, 3 November 2012 (UTC)
-***Major League Baseball is clearly the most premier baseball league in the world, and players from other countries strive to play there. That is reflected in the international nature of its rosters (esp. with players from Latin America). Many countries have professional baseball leagues (e.g. [[Division Élite]] in France), but I don't think any of them would argue they're on the same caliber as MLB in the U.S. That being said, Nippon Professional Baseball in Japan is probably the second most prestigious baseball league in the world, even if its players aren't as international. -- '''[[User:Tariqabjotu|<font color="black">tariq</font><font color="gray">abjotu</font>]]''' 18:44, 3 November 2012 (UTC)
-****I totally agree with this, for the record. I just think that if both events take place at the same time each year, why NOT mention both? --[[User:Torsodog|<font color="#000000">'''T'''</font><font color="#993300">orsodo</font><font color="#000000">'''g'''</font>]]<sup>[[User talk:Torsodog|Talk]]</sup> 18:48, 3 November 2012 (UTC)
-*****AFAIK, the Japan Series blurb was always combined with the World Series blurb; when it (World Series) is pushed off, it goes along with it. As for being international, what has that got to do with the fact that the likes of the AFL Grand Final and the Super Bowl passed when those have to be the most insular of leagues?
-*****Also, aren't Japan the defending [[World Baseball Classic|WBC]] champs? Japanese baseball has to be more followed than American baseball nowadays, right? The series-clinching crowd at the Tokyo Dome is quite higher than the [[2011 Emperor's Cup#Final]] (both featured Tokyo teams), and even higher than the World Series. That should make them a "principal country," along with the U.S. and Cuba and even the Dominican Republic. –'''[[User:Howard the Duck|<font color="#FFA500">H</font>]][[User talk:Howard the Duck|<font color="#FFA500">T</font>]][[Special:Contributions/Howard the Duck|<font color="#FFA500">D</font>]]''' 19:05, 3 November 2012 (UTC)
-******There ''was'' a discussion to add the Japan Series to ITNR, on ITN/C.  At the time is was considered normal to add a recurring sports event to ITNR if it passed consensus on ITN/C and there was no objection.  That's what happened IIRC.  Several ITNR events haven't been posted regularly in recent years, including a lot of the rugby stuff, so if the Japan series wasn't posted for 1-2 years that's no reason to not post now.--[[User:Johnsemlak|Johnsemlak]] ([[User talk:Johnsemlak|talk]]) 20:09, 3 November 2012 (UTC)
-******To be clear, I was just answering Torsodog's question. I have no opinion about whether this should be posted. But we have to recognize that not all national baseball leagues (or sports leagues) are created equal. Whether we draw the line above or below NBP is a matter of opinion. -- '''[[User:Tariqabjotu|<font color="black">tariq</font><font color="gray">abjotu</font>]]''' 20:24, 3 November 2012 (UTC)
-*'''Oppose''' there is no need to bump up the US final, and without that, the Japanese final by itself is not notable enough to deserve an ITN entry. [[User:Nergaal|Nergaal]] ([[User talk:Nergaal|talk]]) 19:08, 3 November 2012 (UTC)
-**I'm not proposing a bump of the original blurb. I'm just proposing adding this to the blurb until it is bumped. Unfortunately the World Series sweep messed up the timing this year. --[[User:Torsodog|<font color="#000000">'''T'''</font><font color="#993300">orsodo</font><font color="#000000">'''g'''</font>]]<sup>[[User talk:Torsodog|Talk]]</sup> 19:12, 3 November 2012 (UTC)
-*'''Oppose'''.  Two different events, and the Japan Series is not notable enough by itself. [[User:331dot|331dot]] ([[User talk:331dot|talk]]) 19:10, 3 November 2012 (UTC)
-*'''Support''' a stand alone entry.  This is the top level championship of one of the most popular sports in Japan and one of the highest calibre leagues in the sport.  And, frankly, a counter to systemic bias. [[User:Resolute|Reso]][[User Talk:Resolute|lute]] 19:17, 3 November 2012 (UTC)
-**It seems some who opposed the entry have no idea how big [[baseball in Japan]] is. It's even referenced a lot of times in the [[Detective Conan]] anime and manga. Aside from cricket's [[Indian Premier League]], when would an annual Asian sporting event stand a chance at ITN? –'''[[User:Howard the Duck|<font color="#FFA500">H</font>]][[User talk:Howard the Duck|<font color="#FFA500">T</font>]][[Special:Contributions/Howard the Duck|<font color="#FFA500">D</font>]]''' 19:38, 3 November 2012 (UTC)
-*'''Support'''' just the Japanese final. We post the English Premier League, and there's no indication that's "higher" than the Bundesliga, Serie A or La Liga (which we probably do or could post). This seems the same situation. I don't see the point of bundling it with the American final though, leave that as a separate entry as they're two different leagues. [[User:Grapple X|<span style="color:#556655"><small>'''GRAPPLE'''</small></span>]] [[User talk:Grapple X|<span style="color:#556655"><small>'''X'''</small></span>]] 19:50, 3 November 2012 (UTC)
-*'''Support'''.  It's ITNR, and should be.  We don't have a lot of baseball on ITN.  We feature very little sport from Asia and this is clearly a major tournament worthy of mention.  It's the number one sports event in Japan, a country of 120 million.  We feature the [[Grey Cup]] championship of Canadian football (American football with a few rules differences) so I don't see why we can't feature the second most important baseball tournament as well.  This isn't some minor unnotable sports event.  On what basis exactly is anyone saying that the Japan series isn't notable enough on its own, btw?--[[User:Johnsemlak|Johnsemlak]] ([[User talk:Johnsemlak|talk]]) 20:04, 3 November 2012 (UTC)
-@Torsodog--the article would be ready with a bit more prose in the Game Six summary and a few more references there as well.--[[User:Johnsemlak|Johnsemlak]] ([[User talk:Johnsemlak|talk]]) 20:14, 3 November 2012 (UTC)
-*'''Support Separate Blurbs''' 2nd most notable baseball championship behind the [[World Series]], definitely should be posted. However, not as a combined blurb. This isn't like posting the combined mens and womens results of [[The Championships, Wimbledon|Wimbledon]], where it's the same tournament. They're separate, unrelated events, and should be treated as such. They are both notable enough to receive their own blurb. -- <span style="background:#000000">'''[[User:Anc516|<span style="color:#FFFF00">Anc516</span>]]'''</span> ([[User talk:Anc516|Talk]] ▪ [[Special:Contributions/Anc516|Contribs]]) 23:44, 3 November 2012 (UTC)
-*'''Ready''' Article is ready. Consensus is to post alternate blurb (separate blurb from World Series). -- <span style="background:#000000">'''[[User:Anc516|<span style="color:#FFFF00">Anc516</span>]]'''</span> ([[User talk:Anc516|Talk]] ▪ [[Special:Contributions/Anc516|Contribs]]) 23:59, 3 November 2012 (UTC)
-*'''Support and endorse readiness'''- Japan is better at baseball than the US, so this is at least as notable as the World Series. Japan won the [[2009 World Baseball Classic|most recent world championship]] and even the [[2012 Little League World Series|Little League World Series]], where the US gets half the teams because they host it.  Should be posted as a separate blurb, because no need to extend the time World Series spends on the main page. '''[[User:Bzweebl|<font color="#D60047">B</font><font color="#F0A000">zw</font><font color="#00A300">ee</font><font color="#0A47FF">bl</font>]]'''  ([[User talk:Bzweebl|talk]] • [[Special:Contributions/Bzweebl|contribs]]) 01:26, 4 November 2012 (UTC)
-*'''Support''' - Fair is fair: I support separate blurbs. INTR a factor here. Play ball! [[User:Jusdafax|<font color="green">Jus</font>]][[User talk:Jusdafax|<font color="C1118C">da</font>]][[Special:Contributions/Jusdafax|<font color="#0000FF">fax</font>]]  01:16, 4 November 2012 (UTC)
-*'''Posted''' -- '''[[User:Tariqabjotu|<font color="black">tariq</font><font color="gray">abjotu</font>]]''' 02:32, 4 November 2012 (UTC)
-==November 2==
-{{cot|[[Portal:Current events/2012 November 2]]}}
-{|{{Portal:Current events/2012 November 2}}
-{{cob}}
-----
+:This is a one-hit wonder. Bernlef is not notable enough but this person ''is''?--[[Special:Contributions/72.196.110.208|72.196.110.208]] ([[User talk:72.196.110.208|talk]]) 11:33, 1 November 2012 (UTC)
+*Died on 24 October: already two days older as a story than oldest item in main ITN space.  Page vews in September averaged 16/day: minimal interest among our readers.  [[User:Kevin McE|Kevin McE]] ([[User talk:Kevin McE|talk]]) 11:45, 1 November 2012 (UTC)
+{{archive bottom}}

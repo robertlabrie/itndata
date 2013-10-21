@@ -11,7 +11,7 @@ die();
 
 $data = file_get_contents($argv[1]);
 
-
+$vote_types = Array('support','oppose','comment','question','pull','post','neutral','ready');
 
 
 //strip out HTML comments (heavily used in template)
@@ -21,8 +21,10 @@ $data = file_get_contents($argv[1]);
 $data = preg_replace("/<strike>(.*?)<\/strike>/","",$data);
 
 //strip out hats and habs
+/*
 $data = preg_replace("/\{\{hat(.*?)\}\}/s","",$data);
 $data = preg_replace("/\{\{hab(.*?)\}\}/s","",$data);
+*/
 
 //split into sections
 $noms = explode("\n===",$data);
@@ -47,7 +49,6 @@ foreach ($noms as $nom)
 
 	//planned to use RegEx for this but it was being a pain so F-regex
 	$template = $nom;
-	echo "$template\n";
 	$template = substr($template,strpos($template,"{{ITN candidate")+15);
 	$template = substr($template,0,strpos($template,"}}"));
 	$template = trim($template);
@@ -68,12 +69,17 @@ foreach ($noms as $nom)
 	$comments = strstr($comments,"\n");
 	$comments = trim($comments);
 	$comments = explode("\n",$comments);
-	
+	$item['comments'] = count($comments);	
 	//enumerate the comments looking for votes
 	$item['time_stop'] = 0;
 	$item['time_last'] = 0;
 	
 	$item['votes'] = Array();
+	foreach ($vote_types as $v)
+	{
+		$item['vote_' . $v] = 0;
+	}
+	$item['vote_total'] = 0;
 	foreach ($comments as $comment)
 	{
 		//got to some other section marker, time to bail
@@ -119,10 +125,11 @@ foreach ($noms as $nom)
 }
 function mwVote($comment)
 {
+	global $vote_types;
 	$out = Array();
 	$out['comment'] = $comment;
 	$user = mwSig($comment);
-	foreach (Array('support','oppose','comment','question','pull','post','neutral','ready') as $vote)
+	foreach ($vote_types as $vote)
 	{
 		if (preg_match("/'''(\w*?| *?)" . $vote . "(\w*?| *?)'''/i",$comment)) { $user['vote'] = $vote; }
 	}
