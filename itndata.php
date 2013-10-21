@@ -110,7 +110,7 @@ foreach ($noms as $nom)
 	}
 	unset($item['votes']);
 	print_r($item);
-	die();
+	//die();
 }
 function mwVote($comment)
 {
