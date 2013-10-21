@@ -147,10 +147,13 @@ function mwSig($sign)
 	$i = count($arr) -1;	//we don't care about the UTC bit
 	
 	//extract the pieces of the date
-	$out['date'] = $arr[$i-4] . " " . $arr[$i-3] . " " . $arr[$i-2] . " " . $arr[$i-1];
+	if (count($arr) > 4)
+	{
+		$out['date'] = $arr[$i-4] . " " . $arr[$i-3] . " " . $arr[$i-2] . " " . $arr[$i-1];
+			//store in unix format
+			$out['stamp'] = strtotime($out['date']);
+	}
 	
-	//store in unix format
-	$out['stamp'] = strtotime($out['date']);
 	
 	/*
 	The users signatures are a dogs breakfast but almost always have either "User: " or "User talk:". Worse
