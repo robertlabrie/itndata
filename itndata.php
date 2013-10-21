@@ -117,7 +117,7 @@ function mwVote($comment)
 	$out = Array();
 	$out['comment'] = $comment;
 	$user = mwSig($comment);
-	foreach (Array('support','oppose','comment','question','pull','post','neutral') as $vote)
+	foreach (Array('support','oppose','comment','question','pull','post','neutral','ready') as $vote)
 	{
 		if (preg_match("/'''(\w*?| *?)" . $vote . "(\w*?| *?)'''/i",$comment)) { $user['vote'] = $vote; }
 	}
