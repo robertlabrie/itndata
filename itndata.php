@@ -118,7 +118,7 @@ foreach ($noms as $nom)
 		$sign = mwSig($item['sign']);
 		$item['time_started'] = $sign['stamp'];
 	}
-	unset($item['votes']);
+	//unset($item['votes']);
 	print_r($item);
 	//echo $item['ltitle'] . "\n";
 	//die();
