@@ -87,7 +87,7 @@ foreach ($noms as $nom)
 		
 		//track the time stop/last through the process
 		if ($vote['stamp'] > $item['time_stop']) { $item['time_stop'] = $vote['stamp']; }
-		if ($vote['stamp'] > $item['time_stop']) { $item['time_stop'] = $vote['stamp']; }
+		if ($vote['stamp'] > $item['time_last']) { $item['time_last'] = $vote['stamp']; }
 		
 		//stack the votes onto an array
 		if (isset($vote['vote'])) { array_push($item['votes'],$vote); }
@@ -148,10 +148,11 @@ function mwSig($sign)
 	still, even though a space is mapped to _ when rendered, MW stores the space of the username in mark-up
 	when expanding --~~~~. Some regex here does the trick, returning an array of probable matches
 	*/
-	$user = preg_split("/\[|\||\]|\)/",$sign);
+	$user = preg_split("/\[|\||\]|\)|\#|\//",$sign);
 	$user = preg_grep("/(User\:)|(talk\:)/",$user);
 	foreach ($user as $u)
 	{
+		
 		$out['name'] = trim(strstr($u,":"),":");
 	}
 	return $out;
