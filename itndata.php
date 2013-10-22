@@ -31,6 +31,7 @@ $noms = explode("\n===",$data);
 
 //the first entry is garbage
 array_shift($noms);
+$dbfields = Array();
 
 //loop through each nom
 foreach ($noms as $nom)
@@ -58,9 +59,11 @@ foreach ($noms as $nom)
 	$template = explode("\n",$template);
 	foreach ($template as $t)
 	{
+		$t = trim($t);
+		if (substr($t,0,1) != "|") { continue; }
 		$t = trim($t,"| ");
 		$t = explode("=",$t,2);
-		if (isset($t[1])) { $item[trim($t[0])] = trim($t[1]); }
+		if (isset($t[1])) { $item[strtolower(trim($t[0]))] = trim($t[1]); }
 	}
 	
 	//the comments section is everything not inside some braces
@@ -95,6 +98,7 @@ foreach ($noms as $nom)
 		//stack the votes onto an array
 		if ((isset($vote['vote'])) && (isset($vote['name'])))
 		{
+			$vote['hash'] = $item['hash'];
 			array_push($item['votes'],$vote);
 			
 			//set the stop time at post time, though maybe there was more discussion
@@ -122,6 +126,12 @@ foreach ($noms as $nom)
 	print_r($item);
 	//echo $item['ltitle'] . "\n";
 	//die();
+	$blah = array_keys($item);
+	foreach ($blah as $k) { $dbfields[$k] = true; }
+}
+foreach (array_keys($dbfields) as $dbf)
+{
+	echo "`$dbf` TEXT NOT NULL,\n";
 }
 function mwVote($comment)
 {

@@ -1,28 +1,36 @@
 
 
-====Death: Bill Dees====
-{{Archive top 
-|result = Withdrawn [[User:Doktorbuk|doktorb]] <sub>[[User talk:Doktorbuk|words]]</sub><sup>[[Special:Contributions/Doktorbuk|deeds]]</sup> 15:20, 1 November 2012 (UTC)
-|status = Withdrawn}}
-
+====[Posted in Recent death ticker] [[Bal Thackeray]]: Nominated for blurb level====
 {{ITN candidate
-| article      = Bill Dees<!-- Do not wikilink -->
-| article2     = <!-- Do not wikilink - leave blank if nominating only one article -->
-| blurb        = Songwriter Bill Dees dies<!-- Add your suggestion of the blurb; should be written in simple present tense. -->
-| recent deaths= <!-- (yes/no); instead of specifying a blurb the nomination can be for the "Recent deaths" line -->
-| altblurb     = <!-- An alternative blurb. Leave blank if not needed -->
-| sources      = http://www.bbc.co.uk/news/entertainment-arts-20165752 (BBC)<!-- Include a reference from a verifiable, reliable source. -->
-| updated      = <!-- (yes/no); we usually require at least five sentences. Leave blank if you aren't sure -->
-| updated2     = <!-- (yes/no); only if there's a second article and article2 is filled in! Leave blank if unsure -->
-| nominator    = Doktorbuk <!-- Do NOT change this -->
-| updater      = <!-- Should be filled with the username of the person who has contributed the most to updates. -->
-| updater2     = <!-- if more than one updater -->
-| updater3     = <!-- if more than two updaters -->
-| ITNR         = no <!-- 'No' by default. Only put in 'yes' if the event is listed at Wikipedia:In the news/Recurring events. -->
-| note         = <!-- Can be used to note potential problems with the nomination or article. -->
-| nom cmt      = <!-- Add the reason for nominating the item. -->
-| sign         = --[[User:Doktorbuk|doktorb]] <sub>[[User talk:Doktorbuk|words]]</sub><sup>[[Special:Contributions/Doktorbuk|deeds]]</sup> 11:29, 1 November 2012 (UTC) <!-- Do NOT change this -->
+| article      = Bal Thackeray
+| blurb        = [[Bal Thackeray]],founder of [[Shiv Sena]], dies at the age of 86.
+| sources      = 
+'''Non Indian media sources'''  [http://www.google.com/hostednews/afp/article/ALeqM5jiejSH6oQcO7ocz8P9pVhgzNSH9Q?docId=CNG.c6c18744bcf573f19c587e59b6e4fd3d.441][http://www.bbc.co.uk/news/world-asia-india-20180376][http://www.reuters.com/article/2012/11/17/us-india-thackeray-death-idUSBRE8AG06G20121117][http://edition.cnn.com/2012/11/17/world/asia/india-thackeray-death/index.html][http://www.aljazeera.com/news/asia/2012/11/2012111712347525901.html][http://features.rr.com/article/03dybCS9Buf58?q=Mumbai][http://www.dailytelegraph.com.au/news/world/firebrand-who-renamed-bombay-dies/story-fnddckzi-1226518834348][http://www.huffingtonpost.com/2012/11/17/hindu-extremist-leader-ba_0_n_2149960.html][http://www.onenewspage.us/n/World/74ritwtgw/Hindu-extremist-leader-Bal-Thackeray-dies-in-India.htm][http://abcnews.go.com/International/wireStory/hindu-extremist-leader-bal-thackeray-dies-india-17746355#.UKfLX4ZKLB0][http://www.wboc.com/story/20124589/hindu-extremist-leader-bal-thackeray-dies-in-india][http://contacto-latino.com/news/6592059/hindu-extremist-leader-bal-thackeray-dies-in-india-fox-news/][http://www.theaustralian.com.au/news/breaking-news/indian-hindu-leader-bal-thacker-dies/story-fn3dxix6-1226518817024][http://www.foxnews.com/world/2012/11/17/hindu-extremist-leader-bal-thackeray-dies-in-india-says-doctor/][http://www.nytimes.com/2012/11/18/world/asia/bal-k-thackeray-leader-of-right-wing-indian-party-dies-at-86.html?_r=0][http://india.blogs.nytimes.com/2012/11/18/balasaheb-k-thackeray-a-look-back/]
+| updated      = yes
+| nominator    = TheTigerKing
+| updater      = Lihaas
+| ITNR         = 
+| nom cmt      = Towering figure in Indian political scene. Founder of Shiv Sena. Article is updated.
+| sign         = <span style="background:#F59801; padding:2px;"><font color="white">Regards, </font></span><span style="background:#006B54; padding:2px;">'''[[User:vaibhavgupta1989|<font color="white">theTigerKing</font>]]&nbsp;'''</span> 13:10, 17 November 2012 (UTC)
 }}
-:This is a one-hit wonder. Bernlef is not notable enough but this person ''is''?--[[Special:Contributions/72.196.110.208|72.196.110.208]] ([[User talk:72.196.110.208|talk]]) 11:33, 1 November 2012 (UTC)
-*Died on 24 October: already two days older as a story than oldest item in main ITN space.  Page vews in September averaged 16/day: minimal interest among our readers.  [[User:Kevin McE|Kevin McE]] ([[User talk:Kevin McE|talk]]) 11:45, 1 November 2012 (UTC)
-{{archive bottom}}
+
+'''Support''': No brainer. Most of Mumbai is virtually shut down right now following news of his death. Police has issued advisory requiring all residents to stay inside unless absolutely necessary. Several columns of paramilitary forces deployed across Mumbai. Top news across all Indian news services, top story in BBC Asia page. [[User:Chocolate Horlicks|Chocolate Horlicks]] ([[User talk:Chocolate Horlicks|talk]]) 14:36, 17 November 2012 (UTC)
+*'''Support''' That is equal to 1000 lions getting died. Half of the Mumbai used to run at his orders. [[User:Vibhijain|<span style="color:#B57EDC">♛♚★Vaibhav Jain★♚♛</span>]] [[User talk:Vibhijain|<sup><span style="color:red"><small>Talk</small></span></sup>]] [[Special:EmailUser/Vibhijain|<sup><span style="color:blue"><small>Email</small></span></sup>]] 15:28, 17 November 2012 (UTC)
+*'''Support for Recent Deaths'''. That's what we have this section for. (I'm not sure if the nominator proposed this for RD or with a proper blurb, the section header reads "Recent death ticker", but there is a blurb proposed) He achieved a great age, so the death came not completely unexpectable, and he did not hold an office at the time of his death (correct me if I'm wrong). So this is not ''news'' in the narrow sense of the word. But he is obviously notable enough for the Recent Deaths section, and the update is decent. Btw, I don't understand the thing with the lions. --[[User:RJFF|RJFF]] ([[User talk:RJFF|talk]]) 18:19, 17 November 2012 (UTC)
+:Yes, he didn't held office at the time of his death. I had been out of Wikipedia for sometime now. Didn't know of recent death ticker thing. I copied the template from somewhere down the bottom. I personally would nominate it for ticker. He is referred to as lion for his audacity.<span style="background:#F59801; padding:2px;"><font color="white">Regards, </font></span><span style="background:#006B54; padding:2px;">'''[[User:vaibhavgupta1989|<font color="white">theTigerKing</font>]]&nbsp;'''</span> 18:27, 17 November 2012 (UTC)
+:: Posting. --'''[[User:Tone|Tone]]''' 19:22, 17 November 2012 (UTC)
+*'''Support''' Shouldn't it be posted in main news? [http://www.bbc.com/ BBC], [http://www.hindustantimes.com/ Hindustan Times], [http://timesofindia.indiatimes.com/ Times of India] has it on home page and almost all national and regional News channels had full day coverage. [[Mumbai Police]] says that about 20 lakh i.e. 2 million attend the funeral. [http://zeenews.india.com/news/nation/bal-thackerays-last-journey-funeral-procession-begins_811455.html] [http://indiatoday.intoday.in/story/shiv-sena-bal-thackeray-passes-away-in-mumbai/1/229599.html] --[[User:Redtigerxyz|<font color = "red" >Redtigerxyz</font>]] <sup> [[User talk:Redtigerxyz|Talk]] </sup> 13:56, 18 November 2012 (UTC)
+*'''Support''' - per Redtigerxyz. '''''[[User:TheSpecialUser|<span style="font-family:Brush Script MT;color:black;background:white">TheSpecialUser</span>]]&nbsp;<sup>[[User talk:TheSpecialUser|<span style="font-family:Bradley Hand ITC;color:blue">TSU</span>]]</sup>''''' 14:57, 18 November 2012 (UTC)
+*'''Support''' Respected journals have covered his death and life (NYT appended in the sources column).<span style="background:#F59801; padding:2px;"><font color="white">Regards, </font></span><span style="background:#006B54; padding:2px;">'''[[User:vaibhavgupta1989|<font color="white">theTigerKing</font>]]&nbsp;'''</span> 15:18, 18 November 2012 (UTC)
+:'''full blurb''' I was just coming here to say that it should be a full blurb as nothing ever in deaths so far (since WP ITN) has been bigger (though i did consider Kichner's recent edeath as an example but wasnt sure how big the funeral was): This is perhaps the largest funeral in the world since Nasser (or even Milosevic) but its more as the top 5/10 biggest cities in the world was brought to \a complete standstill (and voluntarily). Pharmacies were closed and every single outlet except 5-star hotels (not even hole-in-the-wall cigarette stands, no water sales from even street stalls), although ive now found out the club/s ppened after 6pm (and had liquor) (should be closing in 20 mins, as normal ;)). Nevertheless, the magnitude of 2 million+ people at a funeral is unprecedented, and, unlike the above examples, India was a democracy, which is notable for the mass following he did get and transparently built a statue as such (without the state apparatus). Even opposition figures and minorities for a "hindu nationalist" were present. as i write [[Times Now]] is showing him saying "there are only 2 castes in the world rich and poor. make poor rich but dont make rich poor". As theyre saying, mass following unprecedented (in a democracy of this size) and even women (and minorities). A funeral with so much support...anyone would want it, but i doubt yull have this in over a generation.[[User:Lihaas|Lihaas]] ([[User talk:Lihaas|talk]]) 17:49, 18 November 2012 (UTC)
+
+*'''Strong Oppose''' for full blurb.  A sub-national level politician, not holding office, who died of old age, and about whom maybe the best can be said from his article is that he told his militant supporters never to use their violence...against women. [[User:Medeis|μηδείς]] ([[User talk:Medeis|talk]]) 19:37, 18 November 2012 (UTC)
+*'''Comment''' As for reader interest, [[Phyllis Diller]] got more hits on check views than Thackeray did on their deaths, and she was never listed on ITN or RD. [[User:Medeis|μηδείς]] ([[User talk:Medeis|talk]]) 19:43, 18 November 2012 (UTC)
+*'''Keep on death ticker''' per above.  Do we really need to have this debate every time someone is already posted on the death ticker?  '''[[User:Hot Stop|<span style="font-family: symbol;"><span style="color:#0d254c">Hot Stop</span></span>]] [[User talk:Hot_Stop|<span style="font-family: symbol;"><span style="color:#0d254c">(Talk)</span></span>]]''' 04:52, 19 November 2012 (UTC)
+:::The nom and updater are certainly entitled to argue for a full blurb, that's part of the process and their arguments are in good faith, but I simply oppose. [[User:Medeis|μηδείς]] ([[User talk:Medeis|talk]]) 05:28, 19 November 2012 (UTC)
+::::See the death section. Its the repercussions of his death that are much higher. Also see [http://stats.grok.se/en/latest30/Bal_Thackeray hits[[User:Lihaas|Lihaas]] ([[User talk:Lihaas|talk]]) 07:43, 19 November 2012 (UTC)
+==November 16==
+{{cot|[[Portal:Current events/2012 November 16]]}}
+{|{{Portal:Current events/2012 November 16}}
+{{cob}}
+----
