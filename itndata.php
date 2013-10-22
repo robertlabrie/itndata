@@ -1,10 +1,13 @@
 <?php
 /*
 $comment = "*'''Oppose'''. Even if this was a retirement from all forms of cricket, I would still oppose due to fear of setting a precedent we later regret.I can't see this being posted, but I'll explain my reasoning for the benefit of those who aren't sure whether or not to nominate other retirements in future. Don Bradman would be setting the bar too high, but the problem with going much lower is that there are too many other sportsmen of a similar age who could make a similarly strong case for posting. Sticking to cricket, Ponting was an extremely successful captain despite his Ashes record, but should we also have posted all of Graeme Smith, Steve Waugh, Michael Vaughan and Andrew Strauss? Batting wise he's in the class of Lara, Tendulkar, Dravid and Kallis, but should we post all of their retirements? Most of the second list were captains, and most of the first list were fantastic batsmen. And that's not even considering people from other sports with a comparable or level of interest from the English-speaking world.I would definitely support Alex Ferguson &ndash; almost certainly the best manager or head coach in ''any'' sport in the last generation and a half, and to my knowledge he has never appeared on the Main Page. The only other person I would probably support would be Roger Federer, due to the general consensus on his status within tennis &ndash; but even then I'd have a second thought due to his prior prominence on ITN. I might have considered Michael Schumacher in 2006, Tiger Woods had he called it a day a few years ago, and there may be comparable figures to the above in sports that I'm less interested in. For what it's worth I would vote against Tendulkar, on the basis that we posted the two things that set him apart from Ponting.Sorry for the long-winded post, but I hope that helps others understand where I come from on sporting retirements. â[[User talk:WaitingForConnection|WFC]]â '''[[User:WaitingForConnection/FL wishlist|FL wishlist]]''' 08:25, 1 December 2012 (UTC)";
+$comment = " [Posted in Recent death ticker] [[Bal Thackeray]]: Nominated for blurb level";
+$comment = " [posteded in] I love it";
 foreach (Array('support','oppose','comment','question','pull','post') as $vote)
 {
 	//if (preg_match("/'''(.*\w)" . $vote . "(.*?)'''/i",$comment)) { echo "$vote\n"; break;}
-	if (preg_match("/'''(\w*?| *?)" . $vote . "(\w*?| *?)'''/i",$comment)) { echo "$vote\n";}
+	//if (preg_match("/'''(\w*?| *?)" . $vote . "(\w*?| *?)'''/i",$comment)) { echo "$vote\n";}
+	if (preg_match("/\[(\w*?| *?)" . $vote . "/i",$comment)) { echo "$vote\n";}
 }
 die();
 */
@@ -12,7 +15,9 @@ die();
 $data = file_get_contents($argv[1]);
 
 $vote_types = Array('support','oppose','comment','question','pull','post','neutral','ready');
-
+$result_types = Array('post','pull','close','withdrawn');
+$hd = mysqli_connect("localhost","itndata","itndata","itndata") or die("Error " . mysqli_error($hd));
+$dbprefix = "tmp_";
 
 //strip out HTML comments (heavily used in template)
 //$data = preg_replace("/<!--(.*?)-->/","",$data);
@@ -39,12 +44,18 @@ foreach ($noms as $nom)
 	//echo "$nom\n";
 	$item = Array();
 	$item['hash'] = md5($nom);
+	$item['result'] = "noconsensus";
 	//$nom = preg_replace("/[\x00-\x1F\x80-\xFF]/s", '', $nom);
 	$nom = trim($nom);
 	
 	$nom = strip_tags($nom);	//dump worthless HTML
 	$item['title'] = str_replace("=","",strstr($nom,"\n",true));
 	$item['ltitle'] = strtolower($item['title']);
+	foreach ($result_types as $rtype)
+	{
+		if (preg_match("/\[(\w*?| *?)" . $rtype . "/i",$item['title'])) { $item['result'] = $rtype; }
+	}
+
 	//echo "$nom\n";
 	//echo "\n----------------------------------\n";
 
@@ -122,17 +133,31 @@ foreach ($noms as $nom)
 		$sign = mwSig($item['sign']);
 		$item['time_started'] = $sign['stamp'];
 	}
-	//unset($item['votes']);
+	unset($item['votes']);
 	print_r($item);
 	//echo $item['ltitle'] . "\n";
 	//die();
+	
+	$dbfields = "";
+	$dbvalues = "";
+	unset($item['votes']);
+	foreach (array_keys($item) as $key)
+	{
+		$dbfields .= $key . ",";
+		$dbvalues .= "'" . mysqli_real_escape_string($hd,$item[$key]) . "',";
+	}
+	$dbfields = trim($dbfields,",");
+	$dbvalues = trim($dbvalues,",");
+	$sql = "insert into " . $dbprefix . "noms ($dbfields) values ($dbvalues);";
+	echo "$sql\n";
+
+	/*
 	$blah = array_keys($item);
 	foreach ($blah as $k) { $dbfields[$k] = true; }
+	*/
 }
-foreach (array_keys($dbfields) as $dbf)
-{
-	echo "`$dbf` TEXT NOT NULL,\n";
-}
+
+//foreach (array_keys($dbfields) as $dbf) { echo "`$dbf` TEXT NOT NULL,\n"; }
 function mwVote($comment)
 {
 	global $vote_types;
