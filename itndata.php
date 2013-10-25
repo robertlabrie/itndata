@@ -71,6 +71,9 @@ foreach ($noms as $nom)
 	$template = substr($template,strpos($template,"{{ITN candidate")+15);
 	$template = substr($template,0,strpos($template,"}}"));
 	$template = trim($template);
+	
+	$template = str_replace("| updated1","| updated",$template);
+	$template = str_replace("| updater1","| updater",$template);
 	//echo "$template\n";
 	
 	//now process the template
