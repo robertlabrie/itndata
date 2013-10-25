@@ -1,0 +1,7 @@
+[ODBC]
+DRIVER=MySQL ODBC 5.2 Unicode Driver
+UID=itndata
+DFLT_BIGINT_BIND_STR=1
+PORT=3306
+DATABASE=itndata
+SERVER=silo
