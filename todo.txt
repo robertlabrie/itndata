@@ -1,5 +1,6 @@
 *change business - oil to business - energy
 *some contests are awards
+*business:weapons -> business->defense
 ---done---
 *civil unrest - protests
 *civil unrest - society ?
