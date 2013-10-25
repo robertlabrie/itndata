@@ -139,11 +139,9 @@ foreach ($noms as $nom)
 			$sql = "insert into " . $dbprefix . "vote ($dbfields) values ($dbvalues);";
 			print_r($vote);
 			mysqli_query($hd,$sql) or die("vote: failed to execute $sql\n" . mysqli_error($hd) . "\n" . var_export($vote,true));
-		}
-		if ((isset($vote['vote'])) && ($vote['vote'] != 'post'))
-		{
+
+			if (in_array($vote['vote']),Array('support','oppose','pull')) { $item['vote_total']++; }
 			$item['vote_' . $vote['vote']]++;
-			$item['vote_total']++;
 		}
 	}
 	
