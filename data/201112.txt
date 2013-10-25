@@ -2404,7 +2404,12 @@ Ok, I had thought that the Russian elections were done and posted, but I'd say w
 :Christ, take a pill! I didn't say anything in defence of Fox News. Why would I do that? But RT is state media, and the videoclip portrays events as the Russian government would like them to be reported, not as they objectively are.--[[User:FormerIP|FormerIP]] ([[User talk:FormerIP|talk]]) 14:04, 10 December 2011 (UTC)
 
 ===[Posted] New Belgian government===
-{{ITN candidate |article=Di Rupo I Government |blurb=After [[2010–2011 Belgian government formation|541 days of negotiations]], a '''[[Di Rupo I Government|new Belgian government]]''' is sworn in, with [[Elio Di Rupo]] as [[Prime Minister of Belgium|prime minister]].|sources=[http://www.bbc.co.uk/news/world-europe-16042750 BBC], [http://www.lalibre.be/actu/crise-politique/article/704744/leterme-a-remis-le-badge-du-16-rue-de-la-loi-a-di-rupo.html La Libre] {{fr icon}}|updated=no}}
+{{ITN candidate
+| article=Di Rupo I Government 
+| blurb=After [[2010–2011 Belgian government formation|541 days of negotiations]], a '''[[Di Rupo I Government|new Belgian government]]''' is sworn in, with [[Elio Di Rupo]] as [[Prime Minister of Belgium|prime minister]].
+| sources=[http://www.bbc.co.uk/news/world-europe-16042750 BBC], [http://www.lalibre.be/actu/crise-politique/article/704744/leterme-a-remis-le-badge-du-16-rue-de-la-loi-a-di-rupo.html La Libre] {{fr icon}}
+| updated=no
+}}
 *'''Nom''', although not yet official. --[[User:Bender235|bender235]] ([[User talk:Bender235|talk]]) 10:14, 1 December 2011 (UTC)
 : Support when they are sworn in. --'''[[User:Tone|Tone]]''' 12:22, 1 December 2011 (UTC)
 *'''Obvous Support''' when the government is sworn in. Di Rupo's formal designation as Prime Minister is likely to happen on Saturday and the the government is likely to be sworn in Monday. [http://online.wsj.com/article/BT-CO-20111201-710142.html][http://euobserver.com/843/114470] [[User:Therequiembellishere|Therequiembellishere]] ([[User talk:Therequiembellishere|talk]]) 18:20, 1 December 2011 (UTC)
@@ -2873,22 +2878,3 @@ This is the first time in more than a decade that Firefox loses 2nd palce [http:
 {|{{Portal:Current events/2011 December 1}}
 {{cob}}
 ----
-====New Belgian government====
-{{ITN candidate |article=2010–2011 Belgian government formation |blurb=After {{age in days|2010|06|13}} days, a '''[[2010–2011 Belgian government formation|new Belgian government]]''' has been formed, with [[Elio Di Rupo]] as designated [[Prime Minister of Belgium|prime minister]].|sources=[http://www.bbc.co.uk/news/world-europe-15978423 BBC], [http://www.lalibre.be/actu/crise-politique/article/703609/les-six-ont-leur-accord-de-gouvernement.html La Libre] {{fr icon}}}} 
-*'''Nom''', although not yet official. --[[User:Bender235|bender235]] ([[User talk:Bender235|talk]]) 10:14, 1 December 2011 (UTC)
-::I guess an [[Di Rupo I Government]] article would be nice, too. --[[User:Bender235|bender235]] ([[User talk:Bender235|talk]]) 17:12, 1 December 2011 (UTC)
-: Support when they are sworn in. --'''[[User:Tone|Tone]]''' 12:22, 1 December 2011 (UTC)
-*'''Obvous Support''' when the government is sworn in. Di Rupo's formal designation as Prime Minister is likely to happen on Saturday and the the government is likely to be sworn in Monday. [http://online.wsj.com/article/BT-CO-20111201-710142.html][http://euobserver.com/843/114470] [[User:Therequiembellishere|Therequiembellishere]] ([[User talk:Therequiembellishere|talk]]) 18:20, 1 December 2011 (UTC)
-*'''Support''' Very obvious support. This is a world-record by some distance, highly significant development for Belgium to finally have a government. Of European interest but also of world interest too. [[User:Doktorbuk|doktorb]] <sub>[[User talk:Doktorbuk|words]]</sub><sup>[[Special:Contributions/Doktorbuk|deeds]]</sup> 20:20, 1 December 2011 (UTC)
-*'''Wait''' until sworn in. You never know before... --[[User:Roentgenium111|Roentgenium111]] ([[User talk:Roentgenium111|talk]]) 20:44, 1 December 2011 (UTC)
-*'''Support'''. I'm not familiar with the parliamentary system, but I don't understand why we have to wait. We tend to post election results and agreements, not their inauguration/sworn-in ceremony, correct? <b><font color="gray">[[User:Jim Sukwutput|Jim]][[User_talk:Jim Sukwutput|Sukwutput]]</font></b> 20:49, 1 December 2011 (UTC)
-**Because most inaugurations tend to be foregone conclusions. In the case of Belgium, it's very much a "I'll believe it when I see it" kind of deal. --[[User:Golbez|Golbez]] ([[User talk:Golbez|talk]]) 21:09, 1 December 2011 (UTC) 
-::Agree - so we should post when we can believe it - i.e. when sources are stating it as fact. We don't necessarily need to wait for some ceremonial act to be performed. Does Belgium even do a swearing-in ceremony? I have no idea. --[[User:FormerIP|FormerIP]] ([[User talk:FormerIP|talk]]) 00:16, 2 December 2011 (UTC)
-:::The Prime Minister ([[Elio Di Rupo]] of the Francophone socialist party) will be sworn in on Monday. <b><font color="gray">[[User:Jim Sukwutput|Jim]][[User_talk:Jim Sukwutput|Sukwutput]]</font></b> 04:52, 3 December 2011 (UTC)
-*'''Support but Wait''' major development, but wait until it becomes official. [[User:Crnorizec|Crnorizec]] ([[User talk:Crnorizec|talk]]) 23:11, 1 December 2011 (UTC)
-*'''Wait for the swearing in''': very obviously meets ITN importance criteria, but I think Belgium officially having a government would be a more poignant time to post it. Having consensus to post the second the swearing in ceremony happens will be an added bonus. —[[User talk:WFCforLife|WFC]]—  06:25, 2 December 2011 (UTC)
-*'''Strong Support''' Elections are notable, but in Belgium it's particularly notable due to the length between governments. [[User:Beyond495|Beyond495]] ([[User talk:Beyond495|talk]]) 03:20, 3 December 2011 (UTC)
-*'''Support''' as soon as it happens.  [[User:Ghmyrtle|Ghmyrtle]] ([[User talk:Ghmyrtle|talk]]) 08:11, 3 December 2011 (UTC)
-:'''Strong support''' once it actually happens (supposedly on Monday). [[User:Modest Genius|<font face="Times New Roman" color="maroon"><b>Modest Genius</b></font>]] [[User_talk:Modest Genius|<sup>talk</sup>]] 14:15, 4 December 2011 (UTC)
-*'''Strong support''' -- Great coverage for Belgium. [[User:Katarighe|Katarighe]] ([[User talk:Katarighe|talk]]) 20:51, 4 December 2011 (UTC)
-*'''Support''' -- this is now [http://www.bbc.co.uk/news/world-europe-16042750 official].  Blurb should probably link to the [[Di Rupo I Government]] article. --[[User:Jfruh|Jfruh]] ([[User talk:Jfruh|talk]]) 22:07, 5 December 2011 (UTC)
