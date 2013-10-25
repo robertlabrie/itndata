@@ -2141,7 +2141,7 @@ Where's the update?--[[User:Johnsemlak|Johnsemlak]] ([[User talk:Johnsemlak|talk
 | article = RQ-170#Seizure_by_Iran
 | blurb = Iran officially complains to the [[UN Security Council]] claiming a '''[[RQ-170#Seizure_by_Iran|RQ-170 sentinel crashed in Iran]]''' (terrible)
 | sources =  [http://www.washingtonpost.com/blogs/checkpoint-washington/post/after-drone-was-lost-cia-tried-a-head-fake/2011/12/06/gIQAJNrnZO_blog.html] (many more in article)
-| nomitor = 76.18.43.253
+| nominator = 76.18.43.253
 | updated = no
 | updater = <!-- -->
 | ITNR = no
