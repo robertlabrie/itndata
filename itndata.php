@@ -140,7 +140,7 @@ foreach ($noms as $nom)
 			print_r($vote);
 			mysqli_query($hd,$sql) or die("vote: failed to execute $sql\n" . mysqli_error($hd) . "\n" . var_export($vote,true));
 
-			if (in_array($vote['vote']),Array('support','oppose','pull')) { $item['vote_total']++; }
+			if (in_array($vote['vote']),Array('support','oppose')) { $item['vote_total']++; }
 			$item['vote_' . $vote['vote']]++;
 		}
 	}
