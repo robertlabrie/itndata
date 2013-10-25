@@ -36,7 +36,7 @@ $noms = explode("\n===",$data);
 
 //the first entry is garbage
 array_shift($noms);
-$dbfields = Array();
+$dbstructure = Array();
 
 //loop through each nom
 foreach ($noms as $nom)
@@ -44,12 +44,19 @@ foreach ($noms as $nom)
 	//echo "$nom\n";
 	$item = Array();
 	$item['hash'] = md5($nom);
+	
+	//initialize some vars
 	$item['result'] = "noconsensus";
+	$item['itnr'] = 'no';
+	$item['recent_deaths'] = 'no';
+	$item['time_elapsed'] = '0';
+	$item['fatalities'] = '0';
+	$item['datafile'] = $argv[1];
 	//$nom = preg_replace("/[\x00-\x1F\x80-\xFF]/s", '', $nom);
 	$nom = trim($nom);
 	
 	$nom = strip_tags($nom);	//dump worthless HTML
-	$item['title'] = str_replace("=","",strstr($nom,"\n",true));
+	$item['title'] = trim(str_replace("=","",strstr($nom,"\n",true)));
 	$item['ltitle'] = strtolower($item['title']);
 	foreach ($result_types as $rtype)
 	{
@@ -74,7 +81,7 @@ foreach ($noms as $nom)
 		if (substr($t,0,1) != "|") { continue; }
 		$t = trim($t,"| ");
 		$t = explode("=",$t,2);
-		if (isset($t[1])) { $item[strtolower(trim($t[0]))] = trim($t[1]); }
+		if (isset($t[1])) { $item[str_replace(" ","_",strtolower(trim($t[0])))] = trim(strtolower($t[1])); }
 	}
 	
 	//the comments section is everything not inside some braces
@@ -101,6 +108,7 @@ foreach ($noms as $nom)
 		
 		//work out the details of the vote
 		$vote = mwVote($comment);
+		$vote['vhash'] = md5($comment);
 		//echo "$comment\n"; print_r($vote);
 		
 		//track the time stop/last through the process
@@ -114,6 +122,20 @@ foreach ($noms as $nom)
 			
 			//set the stop time at post time, though maybe there was more discussion
 			if ($vote['vote'] == 'post') { $item['time_stop'] = $vote['stamp']; }
+			
+			//load the vote into the DB
+			$dbfields = "";
+			$dbvalues = "";
+			foreach (array_keys($vote) as $key)
+			{
+				$dbfields .= $key . ",";
+				$dbvalues .= "'" . mysqli_real_escape_string($hd,$vote[$key]) . "',";
+			}
+			$dbfields = trim($dbfields,",");
+			$dbvalues = trim($dbvalues,",");
+			$sql = "insert into " . $dbprefix . "vote ($dbfields) values ($dbvalues);";
+			print_r($vote);
+			mysqli_query($hd,$sql) or die("vote: failed to execute $sql\n" . var_export($vote,true));
 		}
 		if ((isset($vote['vote'])) && ($vote['vote'] != 'post'))
 		{
@@ -124,6 +146,7 @@ foreach ($noms as $nom)
 	
 	//if never posted, then it stopped at the last comment
 	if ($item['time_stop'] == 0) { $item['time_stop'] = $item['time_last']; }
+	$item['time_elapsed'] = $item['time_stop'] - $item['time_start'];
 	
 	//if the nom actually signed the template, we can use it to track the time the nom
 	//was started
@@ -134,7 +157,8 @@ foreach ($noms as $nom)
 		$item['time_started'] = $sign['stamp'];
 	}
 	unset($item['votes']);
-	print_r($item);
+	echo $item['title'] . "\n";
+	//print_r($item);
 	//echo $item['ltitle'] . "\n";
 	//die();
 	
@@ -149,15 +173,13 @@ foreach ($noms as $nom)
 	$dbfields = trim($dbfields,",");
 	$dbvalues = trim($dbvalues,",");
 	$sql = "insert into " . $dbprefix . "noms ($dbfields) values ($dbvalues);";
-	echo "$sql\n";
-
-	/*
+	//echo "$sql\n";
+	mysqli_query($hd,$sql) or die("nom: failed to execute $sql\n" . var_export($item,true));
 	$blah = array_keys($item);
-	foreach ($blah as $k) { $dbfields[$k] = true; }
-	*/
+	foreach ($blah as $k) { $dbstructure[$k] = true; }
 }
 
-//foreach (array_keys($dbfields) as $dbf) { echo "`$dbf` TEXT NOT NULL,\n"; }
+foreach (array_keys($dbstructure) as $dbf) { echo "`$dbf` TEXT NOT NULL,\n"; }
 function mwVote($comment)
 {
 	global $vote_types;
