@@ -39,12 +39,13 @@ array_shift($noms);
 $dbstructure = Array();
 
 //loop through each nom
+$loadorder = 0;
 foreach ($noms as $nom)
 {
 	//echo "$nom\n";
 	$item = Array();
 	$item['hash'] = md5($nom);
-	
+	$item['loadorder'] = ++$loadorder;	//access likes to sort on the PK (in this case some anonymous hash) so lets invent something
 	//initialize some vars
 	$item['result'] = "noconsensus";
 	$item['itnr'] = 'no';
