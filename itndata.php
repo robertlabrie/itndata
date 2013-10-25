@@ -138,7 +138,7 @@ foreach ($noms as $nom)
 			$dbvalues = trim($dbvalues,",");
 			$sql = "insert into " . $dbprefix . "vote ($dbfields) values ($dbvalues);";
 			print_r($vote);
-			mysqli_query($hd,$sql) or die("vote: failed to execute $sql\n" . var_export($vote,true));
+			mysqli_query($hd,$sql) or die("vote: failed to execute $sql\n" . mysqli_error($hd) . "\n" . var_export($vote,true));
 		}
 		if ((isset($vote['vote'])) && ($vote['vote'] != 'post'))
 		{
@@ -177,7 +177,7 @@ foreach ($noms as $nom)
 	$dbvalues = trim($dbvalues,",");
 	$sql = "insert into " . $dbprefix . "noms ($dbfields) values ($dbvalues);";
 	//echo "$sql\n";
-	mysqli_query($hd,$sql) or die("nom: failed to execute $sql\n" . var_export($item,true));
+	mysqli_query($hd,$sql) or die("nom: failed to execute $sql\n" . mysqli_error($hd) . "\n" . var_export($item,true));
 	$blah = array_keys($item);
 	foreach ($blah as $k) { $dbstructure[$k] = true; }
 }
