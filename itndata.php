@@ -124,7 +124,7 @@ foreach ($noms as $nom)
 		//stack the votes onto an array
 		if ((isset($vote['vote'])) && (isset($vote['name'])))
 		{
-			$vote['hash'] = $item['hash'];
+			$vote['hash'] = $item['nhash'];
 			array_push($item['votes'],$vote);
 			
 			//set the stop time at post time, though maybe there was more discussion
