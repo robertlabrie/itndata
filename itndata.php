@@ -87,6 +87,9 @@ foreach ($noms as $nom)
 		$t = explode("=",$t,2);
 		if (isset($t[1])) { $item[str_replace(" ","_",strtolower(trim($t[0])))] = trim(strtolower($t[1])); }
 	}
+	//rename sign to nsign
+	$item['nsign'] = $item['sign'];
+	unset($item['sign']);
 	
 	//the comments section is everything not inside some braces
 	$comments = preg_replace("/\{\{(.+?)\}\}/s","",$nom);
