@@ -74,7 +74,7 @@ foreach ($noms as $nom)
 
 	//planned to use RegEx for this but it was being a pain so F-regex
 	$template = $nom;
-	$template = substr($template,strpos($template,"{{ITN candidate")+15);
+	$template = substr($template,stripos($template,"{{ITN candidate")+15);
 	$template = substr($template,0,strpos($template,"}}"));
 	$template = trim($template);
 	
@@ -200,7 +200,7 @@ function mwVote($comment)
 	foreach ($vote_types as $vote)
 	{
 		//if (preg_match("/(\w*?| *?)'''(\w*?| *?)" . $vote . "(\w*?| *?)'''/i",$comment)) { $user['vote'] = $vote; }
-		if (preg_match("/'''([^']*?)" . $vote . "([^']*?)'''/i",$comment)) { $user['vote'] = $vote; }
+		if (preg_match("/'''([^']*?)" . $vote . "([^']*?)'''/i",$comment)) { $user['vote'] = $vote; break; }
 	}
 	return $user;
 }
