@@ -1,0 +1,5 @@
+#!/bin/bash
+php dbtools.php backup
+php dbtools.php pump
+php dbtools.php flush
+
