@@ -230,20 +230,58 @@ Not the most fatal shooting in history, but a school shooting receiving lots of 
 ::::You're right. It's all qualitative, but this feels more like a tragic traffic accident, compared to the one in Argentina which was more like a disaster. --[[Special:Contributions/76.18.43.253|76.18.43.253]] ([[User talk:76.18.43.253|talk]]) 00:19, 28 February 2012 (UTC)
 
 ====[Ready?] Former Ukrainian minister Yuriy Lutsenko sentenced====
-{{ITN candidate | article=  Yuriy Lutsenko      | article2     =  | blurb=  Former [[Ministry of Internal Affairs (Ukraine)|Ukrainian interior minister]] '''[[Yuriy Lutsenko]]''' has been sentenced to fours year in jail for [[embezzlement]] and [[abuse of office]].      | sources      = [http://www.kyivpost.com/news/politics/detail/123206/ (Reuters per Kyiv Post)] | updated      = Yes | updated2     = <!-- (yes/no); only if there's a second article and article2 is filled in! Leave blank if unsure --> | nominator= Yulia Romero     <!-- Do NOT change this --> | updater= Yulia Romero      <!-- Should be filled with the username of the person who has contributed the most to updates. --> | updater2     = <!-- if more than one updater --> | updater3     = <!-- if more than two updaters --> | ITNR         = <!-- (yes/no); leave blank if you aren't sure --> | minority     = <!-- (yes/no); leave blank if you aren't sure --> | note         = There are 3 pictures of him [http://commons.wikimedia.org/wiki/Category:Yuriy_Lutsenko aviable on Wikipedia Commons] | nom cmt      =  | sign         =  — '''[[User:Yulia Romero|<span style="font-family:Script MT;color:orange">Yulia Romero</span>]]'''&nbsp;•&nbsp;[[User_talk:Yulia Romero|<span style="font-family:Script MT;color:blue">Talk to me!</span>]] 19:03, 27 February 2012 (UTC) <!-- Do NOT change this --> }}
+{{ITN candidate
+| article=  Yuriy Lutsenko      
+| article2     =  
+| blurb=  Former [[Ministry of Internal Affairs (Ukraine)|Ukrainian interior minister]] '''[[Yuriy Lutsenko]]''' has been sentenced to fours year in jail for [[embezzlement]] and [[abuse of office]].      
+| sources      = [http://www.kyivpost.com/news/politics/detail/123206/ (Reuters per Kyiv Post)] 
+| updated      = Yes 
+| updated2     = <!-- (yes/no); only if there's a second article and article2 is filled in! Leave blank if unsure --> 
+| nominator= Yulia Romero     <!-- Do NOT change this --> 
+| updater= Yulia Romero      <!-- Should be filled with the username of the person who has contributed the most to updates. --> 
+| updater2     = <!-- if more than one updater --> 
+| updater3     = <!-- if more than two updaters --> 
+| ITNR         = <!-- (yes/no); leave blank if you aren't sure --> 
+| minority     = <!-- (yes/no); leave blank if you aren't sure --> 
+| note         = There are 3 pictures of him [http://commons.wikimedia.org/wiki/Category:Yuriy_Lutsenko aviable on Wikipedia Commons] 
+| nom cmt      =  
+| sign         =  — '''[[User:Yulia Romero|<span style="font-family:Script MT;color:orange">Yulia Romero</span>]]'''&nbsp;•&nbsp;[[User_talk:Yulia Romero|<span style="font-family:Script MT;color:blue">Talk to me!</span>]] 19:03, 27 February 2012 (UTC) <!-- Do NOT change this --> 
+}}
 : The update is decent, it's a high-profile politician, tentative support. --'''[[User:Tone|Tone]]''' 19:27, 27 February 2012 (UTC)
 * '''Weak Oppose''': Update is good, but the news coverage is not that substantial and I don't feel his former position is enough to warrant posting on its own. --[[User:ThaddeusB|ThaddeusB]] ([[User talk:ThaddeusB|talk]]) 18:51, 28 February 2012 (UTC)
 ::*The [[EU]], [[US State Department]] and others have sugested it falls into a [[Human rights in Ukraine#The right to fair trial|continuation of trials in Ukraine that look dubious]]........ But it does seem to me [[WP:SYNTH]] to state it like that in ITN... I am a bit surpriced it is not "bigger news" "outside Ukraine". — '''[[User:Yulia Romero|<span style="font-family:Script MT;color:orange">Yulia Romero</span>]]'''&nbsp;•&nbsp;[[User_talk:Yulia Romero|<span style="font-family:Script MT;color:blue">Talk to me!</span>]] 20:07, 28 February 2012 (UTC)
 *'''Support'''. Article looks good, and it's one of those that if we put on the front page, we'll actually be meeting our remit of directing people to updated articles that reflect news. Let's shy away from the "not enough news coverage" angle here for once, it's significant and we can afford to put it up, so let's do so. [[User:Strange Passerby|Strange Passerby]] ([[User talk:Strange Passerby|talk]] • [[Special:Contributions/Strange Passerby|cont]]) 23:19, 28 February 2012 (UTC)
 
 ====Mansur al-Hadi takes over as Yemeni President====
-{{ITN candidate | article      = Abd Rabbuh Mansur Al-Hadi | article2     = President of Yemen | blurb        = '''[[Abd Rabbuh Mansur Al-Hadi]]''' is officially sworn in as [[President of Yemen|President]] of [[Yemen]]. | sources      = [http://www.bbc.co.uk/news/world-middle-east-17177720 (BBC)] | updated      = <!-- (yes/no); leave blank if you aren't sure --> | updated2     = <!-- (yes/no); only if there's a second article and article2 is filled in! Leave blank if unsure --> | nominator    = Kitch <!-- Do NOT change this --> | updater      = <!-- Should be filled with the username of the person who has contributed the most to updates. --> | updater2     = <!-- if more than one updater --> | updater3     = <!-- if more than two updaters --> | ITNR         = <!-- (yes/no); leave blank if you aren't sure --> | minority     = <!-- (yes/no); leave blank if you aren't sure --> | note         = The article for al-Hadi needs work. | nom cmt      = Change of head of state | sign         = ----[[User:Kitch|Kitch]] <sup>([[User talk:Kitch|Talk]] : [[Special:Contributions/Kitch|Contrib]])</sup> 17:39, 27 February 2012 (UTC) <!-- Do NOT change this --> }}
+{{ITN candidate 
+| article      = Abd Rabbuh Mansur Al-Hadi 
+| article2     = President of Yemen 
+| blurb        = '''[[Abd Rabbuh Mansur Al-Hadi]]''' is officially sworn in as [[President of Yemen|President]] of [[Yemen]]. 
+| sources      = [http://www.bbc.co.uk/news/world-middle-east-17177720 (BBC)] 
+| updated      = <!-- (yes/no); leave blank if you aren't sure --> 
+| updated2     = <!-- (yes/no); only if there's a second article and article2 is filled in! Leave blank if unsure --> 
+| nominator    = Kitch <!-- Do NOT change this --> 
+| updater      = <!-- Should be filled with the username of the person who has contributed the most to updates. --> 
+| updater2     = <!-- if more than one updater --> 
+| updater3     = <!-- if more than two updaters --> 
+| ITNR         = <!-- (yes/no); leave blank if you aren't sure --> 
+| minority     = <!-- (yes/no); leave blank if you aren't sure --> 
+| note         = The article for al-Hadi needs work. 
+| nom cmt      = Change of head of state 
+| sign         = ----[[User:Kitch|Kitch]] <sup>([[User talk:Kitch|Talk]] : [[Special:Contributions/Kitch|Contrib]])</sup> 17:39, 27 February 2012 (UTC) <!-- Do NOT change this --> 
+}}
 * '''Support''' Mayor event, is worldwide big news. — '''[[User:Yulia Romero|<span style="font-family:Script MT;color:orange">Yulia Romero</span>]]'''&nbsp;•&nbsp;[[User_talk:Yulia Romero|<span style="font-family:Script MT;color:blue">Talk to me!</span>]] 18:41, 27 February 2012 (UTC)
 *Note that this is the third time this has been nominated and the article still is in poor shape. If someone really wants this posted, they are going to have to do the article work. --[[User:ThaddeusB|ThaddeusB]] ([[User talk:ThaddeusB|talk]]) 23:36, 27 February 2012 (UTC)
 ::*Did not knew that the "shape of the article" was a criteria for ITN before I voted (never voted for an ITN before), sorry for that... It is indeed now in a too bad of a shape to post it on the mainpage of Wikipedia ''via'' ITN... — '''[[User:Yulia Romero|<span style="font-family:Script MT;color:orange">Yulia Romero</span>]]'''&nbsp;•&nbsp;[[User_talk:Yulia Romero|<span style="font-family:Script MT;color:blue">Talk to me!</span>]] 22:45, 28 February 2012 (UTC)
 
 ====Wikileaks' latest disclosure====
-{{ITN candidate|article=2012 Stratfor email leak |blurb=[[WikiLeaks]] '''[[2012 Stratfor email leak|begins disclosing]]''' what it claims are 5 million e-mails taken from the private intelligence company [[Stratfor]]. | updated=yes| sign         = --[[User:BorgQueen|BorgQueen]] ([[User talk:BorgQueen|talk]]) 09:38, 27 February 2012 (UTC)|sources =[http://edition.cnn.com/2012/02/26/us/wikileaks-stratfor/ CNN], [http://www.reuters.com/article/2012/02/27/wikileaks-stratfor-idUSL5E8DR01320120227 Reuters], [http://www.huffingtonpost.com/2012/02/27/wikileaks-stratfor-emails-published_n_1303238.html Huff Post], [http://www.guardian.co.uk/commentisfree/cifamerica/2012/feb/28/wikileaks-intelligence-industrial-complex The Guardian], [http://www.theage.com.au/technology/technology-news/wikileaks-publishes-millions-of-global-intelligence-firms-emails-20120227-1txm4.html The Age]}}
+{{ITN candidate
+| article=2012 Stratfor email leak |blurb=[[WikiLeaks]] '''[[2012 Stratfor email leak|begins disclosing]]''' what it claims are 5 million e-mails taken from the private intelligence company [[Stratfor]]. 
+| updated=yes
+| sign         = --[[User:BorgQueen|BorgQueen]] ([[User talk:BorgQueen|talk]]) 09:38, 27 February 2012 (UTC)
+| sources =[http://edition.cnn.com/2012/02/26/us/wikileaks-stratfor/ CNN], [http://www.reuters.com/article/2012/02/27/wikileaks-stratfor-idUSL5E8DR01320120227 Reuters], [http://www.huffingtonpost.com/2012/02/27/wikileaks-stratfor-emails-published_n_1303238.html Huff Post], [http://www.guardian.co.uk/commentisfree/cifamerica/2012/feb/28/wikileaks-intelligence-industrial-complex The Guardian], [http://www.theage.com.au/technology/technology-news/wikileaks-publishes-millions-of-global-intelligence-firms-emails-20120227-1txm4.html The Age]
+}}
+
 *'''Oppose'''.  Nothing particularly dramatic about Wikileaks releasing stuff, especially when the target is a company nobody knows or cares about.  If the leak results in something major happening, revisit then. [[User:Resolute|Reso]][[User Talk:Resolute|lute]] 18:22, 27 February 2012 (UTC)
 **According to our article: ''Stratfor has been cited by media such as CNN, Bloomberg, the Associated Press, Reuters, The New York Times and the BBC as an authority on strategic and tactical intelligence issues.[3] Barron's once referred to it as "The Shadow CIA".[4]'' Your claim that it is "a company nobody knows or cares about" is simply untrue. --[[User:BorgQueen|BorgQueen]] ([[User talk:BorgQueen|talk]]) 05:26, 28 February 2012 (UTC)
 
@@ -467,14 +505,25 @@ Not while the article is as it is: the opening sentence describes him as the vic
 ----
 ====[Withdrawn] Prince Friso of Orange-Nassau====
 {{Archive top|Withdrawn by nominator}}
-{{ITN candidate |article=Prince Friso of Orange-Nassau |blurb=Dutch doctors stats that '''[[Prince Friso of Orange-Nassau]]''' who was buried under an avalanche may  never regian consciousness after suffered massive brain damage due to oxygen shortage. |sources=[http://www.nu.nl/binnenland/2748703/zeer-ernstig-hersenletsel-friso.html NU]| updated      = yes }}
+{{ITN candidate 
+| article=Prince Friso of Orange-Nassau 
+| blurb=Dutch doctors stats that '''[[Prince Friso of Orange-Nassau]]''' who was buried under an avalanche may  never regian consciousness after suffered massive brain damage due to oxygen shortage. 
+| sources=[http://www.nu.nl/binnenland/2748703/zeer-ernstig-hersenletsel-friso.html NU]
+| updated      = yes 
+}}
 :'''Nom''' - Dutch prince, whos in line to British throne and the Commonwealth realms, son of [[Beatrix of the Netherlands]]. <br />&nbsp;&nbsp;– ''[[User:HonorTheKing|HonorTheKing]] ([[User talk:HonorTheKing|talk]])'' 16:18, 24 February 2012 (UTC)
 *'''Oppose'''. Not dead, and the avalanche was days ago. Perhaps would've supported then, but this is just a 'latest development' that is not news. [[User:Strange Passerby|Strange Passerby]] ([[User talk:Strange Passerby|talk]] • [[Special:Contributions/Strange Passerby|cont]]) 18:06, 24 February 2012 (UTC)
 *'''Oppose''', unfortunate but not major in world or even regional politics. 1145th in line to the British throne is a bit low. --[[User:Golbez|Golbez]] ([[User talk:Golbez|talk]]) 18:27, 24 February 2012 (UTC)
 {{archive bottom}}
 
 ====Annan named UN-Arab special envoy====
-{{ITN candidate |article=Kofi Annan |blurb=The [[United Nations]] and the [[Arab League]] have appointed '''[[Kofi Annan]]''' as a joint special envoy to mediate in the [[2011–2012 Syrian uprising|ongoing Syrian conflict]]. |sources=[http://www.aljazeera.com/news/middleeast/2012/02/201222415140240588.html Al-Jazeera], [http://rendezvous.blogs.nytimes.com/2012/02/24/elder-statesman-steps-into-syrian-breach/ NY Times]| updated      = no }}
+{{ITN candidate 
+| article=Kofi Annan 
+| blurb=The [[United Nations]] and the [[Arab League]] have appointed '''[[Kofi Annan]]''' as a joint special envoy to mediate in the [[2011–2012 Syrian uprising|ongoing Syrian conflict]]. 
+| sources=[http://www.aljazeera.com/news/middleeast/2012/02/201222415140240588.html Al-Jazeera], [http://rendezvous.blogs.nytimes.com/2012/02/24/elder-statesman-steps-into-syrian-breach/ NY Times] 
+| updated      = no 
+| sign = --[[User:Bender235|bender235]] ([[User talk:Bender235|talk]]) 14:34, 24 February 2012 (UTC)
+}}
 *'''Nom'''. --[[User:Bender235|bender235]] ([[User talk:Bender235|talk]]) 14:34, 24 February 2012 (UTC)
 *'''Conditional support''' now this is a good, even handed way to get Syria on ITN. There is no good update though. What's his mission? Who is he meeting? When? What outcomes are expected? etc. Should probably go in the Syrian Conflict article, not the Kofi Annan article. --[[Special:Contributions/76.18.43.253|76.18.43.253]] ([[User talk:76.18.43.253|talk]]) 15:03, 24 February 2012 (UTC)
 *'''Oppose''' at this point, we've just posted a sticky about Syria. --'''[[User:Tone|Tone]]''' 15:07, 24 February 2012 (UTC)
@@ -558,7 +607,12 @@ Not while the article is as it is: the opening sentence describes him as the vic
 *'''Posting'''. '''[[User:Spencer|<span style="color:#082567">Spencer</span>]]'''<sup>[[User talk:Spencer|<span style="color:#FFBF00">T♦</span>]][[Special:Contributions/Spencer|<span style="color:#FFBF00">C</span>]]</sup> 01:41, 23 February 2012 (UTC)
 
 ====Hundreds killed in Homs; Colvin, Ochlik, too====
-{{ITN candidate |article=February 2012 bombardment of Homs |blurb=In [[Syria]], over an hundred civilians are killed during the '''[[February 2012 bombardment of Homs]]''', including reporters [[Marie Colvin]], [[Rémi Ochlik]]. |sources=[http://www.telegraph.co.uk/news/worldnews/middleeast/syria/9097762/Syria-Sunday-Times-journalist-Marie-Colvin-killed-in-Homs.html Telegraph], [http://www.guardian.co.uk/media/greenslade/2012/feb/22/sundaytimes-syria Guardian], [http://www.bbc.co.uk/news/world-middle-east-17124786 BBC], [http://www.nytimes.com/2012/02/23/world/middleeast/marie-colvin-and-remi-ochlik-journalists-killed-in-syria.html NY Times], [http://edition.cnn.com/2012/02/22/world/meast/syria-unrest/index.html CNN] }}
+{{ITN candidate 
+| article=February 2012 bombardment of Homs 
+| blurb=In [[Syria]], over an hundred civilians are killed during the '''[[February 2012 bombardment of Homs]]''', including reporters [[Marie Colvin]], [[Rémi Ochlik]]. 
+| sources=[http://www.telegraph.co.uk/news/worldnews/middleeast/syria/9097762/Syria-Sunday-Times-journalist-Marie-Colvin-killed-in-Homs.html Telegraph], [http://www.guardian.co.uk/media/greenslade/2012/feb/22/sundaytimes-syria Guardian], [http://www.bbc.co.uk/news/world-middle-east-17124786 BBC], [http://www.nytimes.com/2012/02/23/world/middleeast/marie-colvin-and-remi-ochlik-journalists-killed-in-syria.html NY Times], [http://edition.cnn.com/2012/02/22/world/meast/syria-unrest/index.html CNN] 
+| sign = --[[User:Bender235|bender235]] ([[User talk:Bender235|talk]]) 11:43, 22 February 2012 (UTC)
+}}
 *'''Nom'''. Notable per [[Wikipedia:In the news/Candidates/April 2011#April 20|Hetherington-Hondros precedent]]. --[[User:Bender235|bender235]] ([[User talk:Bender235|talk]]) 11:43, 22 February 2012 (UTC)
 <s>*'''Support''' Some of the most dedicated, respected and renowned journalists in their fields. Beyond notable. [[User:Doktorbuk|doktorb]] <sub>[[User talk:Doktorbuk|words]]</sub><sup>[[Special:Contributions/Doktorbuk|deeds]]</sup> 11:47, 22 February 2012 (UTC)</s>
 ::'''oppose''' NYT chap died last week without mention. Judges assassinated without mention. Nothing intricnsically notable here. Only european notability (if that). Although i would definately support a sticky for syria. (and libya's post-war conflicts)[[User:Lihaas|Lihaas]] ([[User talk:Lihaas|talk]]) 12:20, 22 February 2012 (UTC)
@@ -970,7 +1024,10 @@ Could this change be considered ready? [[User:Josh Gorand|Josh Gorand]] ([[User 
 {{cob}}
 ----
 ====Anthony Shadid's death====
-{{ITN candidate |article=Anthony Shadid|blurb= Two time [[Pulitzer Prize]] winner '''[[Anthony Shadid]]''' dies suddenly at age 43 of an acute [[asthma]] attack.|sources= [http://www.csmonitor.com/World/Global-News/2012/0217/Anthony-Shadid-Quite-simply-the-best] [http://www.nytimes.com/2012/02/17/world/middleeast/anthony-shadid-a-new-york-times-reporter-dies-in-syria.html]}} 
+{{ITN candidate 
+| article=Anthony Shadid|blurb= Two time [[Pulitzer Prize]] winner '''[[Anthony Shadid]]''' dies suddenly at age 43 of an acute [[asthma]] attack.
+| sources= [http://www.csmonitor.com/World/Global-News/2012/0217/Anthony-Shadid-Quite-simply-the-best] [http://www.nytimes.com/2012/02/17/world/middleeast/anthony-shadid-a-new-york-times-reporter-dies-in-syria.html]
+}} 
 :Unexpected death of reporter considered among the best in the business. --[[User:ThaddeusB|ThaddeusB]] ([[User talk:ThaddeusB|talk]]) 19:08, 17 February 2012 (UTC)
 *'''Support''' one of the more well-known newspaper correspondents, reaction to the news is huge [http://news.yahoo.com/blogs/cutline/journalists-mourn-nyt-foreign-correspondent-anthony-shadid-died-175333831.html] very unexpected death. [[User:Secret|Secret]] <sup>[[User talk:Secret|account]]</sup> 20:40, 17 February 2012 (UTC)
 *I suspected this might get nominated. I was considering whether or not to do so myself when I first saw the news. I'm on the fence — he was a highly notable, skilled, award-winning journalist, and the death was unexpected. Yet the death was from a tame cause, unlike when we posted the photographers who were shot dead in Libya. '''Leaning support'''. [[User:Strange Passerby|Strange Passerby]] ([[User talk:Strange Passerby|talk]] • [[Special:Contributions/Strange Passerby|cont]]) 20:45, 17 February 2012 (UTC)
@@ -984,7 +1041,12 @@ Could this change be considered ready? [[User:Josh Gorand|Josh Gorand]] ([[User 
 ::Sure if on assignment in a combat zone, but not from an asthma attack. FWIW I also opposed Whitney Houston on similar grounds. --[[Special:Contributions/76.18.43.253|76.18.43.253]] ([[User talk:76.18.43.253|talk]]) 22:10, 20 February 2012 (UTC)
 
 ====Gary Carter death====
-{{ITN candidate |article=Gary Carter |blurb= [[National Baseball Hall of Fame and Museum|National Baseball Hall of Fame]] member '''[[Gary Carter]]''' dies at the age of 57|sources= [http://www.usatoday.com/sports/baseball/story/2012-06-30/Gary-Carter-dies-brain-cancer-hall-of-fame/53122190/1 USA Today], [http://espn.go.com/new-york/mlb/story/_/id/7583267/hall-fame-catcher-gary-carter-dies-age-57 ESPN], [http://www.nytimes.com/2012/02/17/sports/baseball/gary-carter-exuberant-power-hitting-catcher-dies-at-57.html The New York Times], [http://www.latimes.com/sports/la-me-gary-carter-20120217,0,6528145.story Los Angeles Times]}} [[User:Albacore|Albacore]] ([[User talk:Albacore|talk]]) 02:20, 17 February 2012 (UTC)
+{{ITN candidate 
+| article=Gary Carter 
+| blurb= [[National Baseball Hall of Fame and Museum|National Baseball Hall of Fame]] member '''[[Gary Carter]]''' dies at the age of 57
+| sources= [http://www.usatoday.com/sports/baseball/story/2012-06-30/Gary-Carter-dies-brain-cancer-hall-of-fame/53122190/1 USA Today], [http://espn.go.com/new-york/mlb/story/_/id/7583267/hall-fame-catcher-gary-carter-dies-age-57 ESPN], [http://www.nytimes.com/2012/02/17/sports/baseball/gary-carter-exuberant-power-hitting-catcher-dies-at-57.html The New York Times], [http://www.latimes.com/sports/la-me-gary-carter-20120217,0,6528145.story Los Angeles Times]
+| sign= [[User:Albacore|Albacore]] ([[User talk:Albacore|talk]]) 02:20, 17 February 2012 (UTC)
+}}
 
 :*'''Support''' - Hall of Fame member should meet the "very important in his field" criteria IMO. Update is skimpy, but not sure what else could be added. --[[User:ThaddeusB|ThaddeusB]] ([[User talk:ThaddeusB|talk]]) 04:05, 17 February 2012 (UTC)
 :'''oppose''' hes hardly "Widely" known in the us and there are several hall of famers in each sport not to mention then adding all 4 major sports (does the MLS have one yet?) in 1 countyr alone...[[User:Lihaas|Lihaas]] ([[User talk:Lihaas|talk]]) 04:45, 17 February 2012 (UTC)
@@ -1008,7 +1070,12 @@ Could this change be considered ready? [[User:Josh Gorand|Josh Gorand]] ([[User 
 *'''Oppose''' He failed on the National Baseball Hall of Fame balloting in [[Baseball Hall of Fame balloting, 1998|1998]], [[Baseball Hall of Fame balloting, 1999|1999]], [[Baseball Hall of Fame balloting, 2000|2000]], [[Baseball Hall of Fame balloting, 2001|2001]], [[Baseball Hall of Fame balloting, 2002|2002]], before succeeding in [[Baseball Hall of Fame balloting, 2003|2003]]. I don't follow the sport but he doesn't seem like a really major figure. [[User:PrimeHunter|PrimeHunter]] ([[User talk:PrimeHunter|talk]]) 02:56, 18 February 2012 (UTC)
 
 ====Umar Farouk Abdulmutallab sentenced====
-{{ITN candidate |article=Umar Farouk Abdulmutallab |blurb= The so called "underwear bomber" [[Umar Farouk Abdulmutallab]] is sentenced to life imprisonment by a judge in the US.|sources= [http://news.sky.com/home/world-news/article/16171484 Sky News]}}--[[User:BabbaQ|BabbaQ]] ([[User talk:BabbaQ|talk]]) 22:15, 16 February 2012 (UTC)
+{{ITN candidate 
+| article=Umar Farouk Abdulmutallab 
+| blurb= The so called "underwear bomber" [[Umar Farouk Abdulmutallab]] is sentenced to life imprisonment by a judge in the US.
+| sources= [http://news.sky.com/home/world-news/article/16171484 Sky News]
+| sign= --[[User:BabbaQ|BabbaQ]] ([[User talk:BabbaQ|talk]]) 22:15, 16 February 2012 (UTC)
+}}
 :'''Support''' - notable, as far as sentencings go. ''[[User:Swarm|<span style='color:black'><font face="Old English Text MT">Swarm</font></span>]]'' <sup>[[User talk:Swarm|<span style="color:blue;"><font face="old english text mt">X</font></span>]]</sup> 22:26, 16 February 2012 (UTC)
 :'''oppose''' sentencing for such terrorism failures is common across Europe, Asia (India), etc. Currently there was also an extradition hearing for whatshisface and other crimes of conviction just penidng extradiction.[[User:Lihaas|Lihaas]] ([[User talk:Lihaas|talk]]) 23:15, 16 February 2012 (UTC)
 :'''Oppose''' - Someone being sentenced for an unsuccessful attempt at terrorism doesn't seem noteworthy enough to me and a significant update to the article is unlikely (there isn't much to say.) --[[User:ThaddeusB|ThaddeusB]] ([[User talk:ThaddeusB|talk]]) 04:47, 17 February 2012 (UTC)
@@ -1016,7 +1083,12 @@ Could this change be considered ready? [[User:Josh Gorand|Josh Gorand]] ([[User 
 :'''Oppose''' Notable crime but not a story which fits ITN [[User:Doktorbuk|doktorb]] <sub>[[User talk:Doktorbuk|words]]</sub><sup>[[Special:Contributions/Doktorbuk|deeds]]</sup> 10:14, 17 February 2012 (UTC)
 
 ====UN resolution on Syria pass====
-{{ITN candidate |article=United Nations General Assembly |blurb= The [[United Nations General Assembly]] passes a resolution condemning the [[2011–2012 Syrian uprising|violence in Syria]].|sources=[http://news.sky.com/home/world-news/article/16170918 Sky News]}}--[[User:BabbaQ|BabbaQ]] ([[User talk:BabbaQ|talk]]) 22:15, 16 February 2012 (UTC)
+{{ITN candidate 
+| article=United Nations General Assembly 
+| blurb= The [[United Nations General Assembly]] passes a resolution condemning the [[2011–2012 Syrian uprising|violence in Syria]].
+| sources=[http://news.sky.com/home/world-news/article/16170918 Sky News]
+| sign=--[[User:BabbaQ|BabbaQ]] ([[User talk:BabbaQ|talk]]) 22:15, 16 February 2012 (UTC)
+}}
 :Support, but with shortened blurb. "The United Nations General Assembly passes a resolution condemning Syria (for ongoing violence, etc.)" Something along those lines. ''[[User:Swarm|<span style='color:black'><font face="Old English Text MT">Swarm</font></span>]]'' <sup>[[User talk:Swarm|<span style="color:blue;"><font face="old english text mt">X</font></span>]]</sup> 22:23, 16 February 2012 (UTC)
 ::'''oppose''' as purely symbolic holding no weight whatsoevr. At this rate the north kosovo refrendum would be ITN material too.[[User:Lihaas|Lihaas]] ([[User talk:Lihaas|talk]]) 23:16, 16 February 2012 (UTC)
 :Support in principle, but the article for update can't possibly be [[United Nations General Assembly]]. What about [[2011–2012 Syrian uprising]] instead? --[[User:FormerIP|FormerIP]] ([[User talk:FormerIP|talk]]) 23:17, 16 February 2012 (UTC)
@@ -1026,7 +1098,13 @@ Could this change be considered ready? [[User:Josh Gorand|Josh Gorand]] ([[User 
 
 ====[Posted] Resignation of the President of Germany Christian Wulff ====
 
-{{ITN candidate |article=Christian Wulff |blurb=[[President of Germany]] '''[[Christian Wulff]]''' resigns, over allegation of accepting advantage during his tenure as [[Prime Minister of Lower Saxony]]. <!-- picture for ITN box [[File:Landtag Niedersachsen DSCF7769.JPG|right|70px]] --> |sources=[http://www.dw-world.com/dw/article/0,,15747460,00.html Deutsche Welle], [http://www.bbc.co.uk/news/world-europe-17072479 BBC], [http://www.nytimes.com/2012/02/18/world/europe/german-president-could-lose-his-immunity.html NY Times] }}
+{{ITN candidate 
+| article=Christian Wulff 
+| blurb=[[President of Germany]] '''[[Christian Wulff]]''' resigns, over allegation of accepting advantage during his tenure as [[Prime Minister of Lower Saxony]]. <!-- picture for ITN box [[File:Landtag Niedersachsen DSCF7769.JPG|right|70px]] --> 
+| sources=[http://www.dw-world.com/dw/article/0,,15747460,00.html Deutsche Welle], [http://www.bbc.co.uk/news/world-europe-17072479 BBC], [http://www.nytimes.com/2012/02/18/world/europe/german-president-could-lose-his-immunity.html NY Times] 
+| nom cmt = Developing story as of now, but if the [[Bundestag]] lifts his immunity, this should be ITN. 
+| sign= --[[User:Bender235|bender235]] ([[User talk:Bender235|talk]]) 18:59, 16 February 2012 (UTC)
+}}
 *Developing story as of now, but if the [[Bundestag]] lifts his immunity, this should be ITN. --[[User:Bender235|bender235]] ([[User talk:Bender235|talk]]) 18:59, 16 February 2012 (UTC)
 :'''Note:''' He does NOT face impeachment, only lifting of immunity. There's a big difference for the Bundestag between allowing prosecution by independent judiciary, and impeaching the President themselves. Even if the intended prosecution is successful and he is convicted, Wulff could still legally remain President (though there would of course be huge pressure put on him to resign). Still, it's a first in post-war Germany, so '''weak support''' if the Bundestag acts accordingly. --[[User:Roentgenium111|Roentgenium111]] ([[User talk:Roentgenium111|talk]]) 19:19, 16 February 2012 (UTC)
 ::He would face impeachment. Its just that in Germany impeachment doesn't necessarily result in removing him from office. --[[User:Bender235|bender235]] ([[User talk:Bender235|talk]]) 19:44, 16 February 2012 (UTC)
@@ -1449,9 +1527,10 @@ At least 400 people have died in Europe and part of Asia including Russia. 57 in
 {{cob}}
 ----
 ====Zoran Đinđić assassin====
-{{ITN candidate |article=Zoran Đinđić
-|article2=Assassination of Zoran Đinđić
-|blurb= The convicted '''[[Assassination of Zoran Đinđić|assassin]]''' of [[Prime Minister of Serbia|Prime Minister]] '''[[Zoran Đinđić]]''' ''(pictured)'' is arrested in Spain, pending extradition to Serbia via [[Interpol]]. |sources=
+{{ITN candidate 
+| article=Zoran Đinđić
+| article2=Assassination of Zoran Đinđić
+| blurb= The convicted '''[[Assassination of Zoran Đinđić|assassin]]''' of [[Prime Minister of Serbia|Prime Minister]] '''[[Zoran Đinđić]]''' ''(pictured)'' is arrested in Spain, pending extradition to Serbia via [[Interpol]]. |sources=
 | updated      = no
 | updated2      = no
 | nominator    = Lihaas
@@ -1463,7 +1542,7 @@ At least 400 people have died in Europe and part of Asia including Russia. 57 in
 | note         = <!-- Can be used to note potential problems with the nomination or article. -->
 | nom cmt      = Notable assiassination of a world leader, conviction carried out in absentia, extradition due to carry out decade + sentence
 | sign         = --[[User:Lihaas|Lihaas]] ([[User talk:Lihaas|talk]]) 02:13, 11 February 2012 (UTC) <!-- Do NOT change this -->
- }}
+}}
 
 *'''Support''' It took them almost 9 years to find the assassin. The case opened a very wide importance after it was necessary to solve via Interpol. I fixed the spelling of his name into Serbian latin alphabet as it is the case in both, the biographic article and the one about his assassination.--[[User:Kiril Simeonovski|Kiril Simeonovski]] ([[User talk:Kiril Simeonovski|talk]]) 11:07, 11 February 2012 (UTC)
 *'''Support''' per above. [[User:Brandmeister|<span style="font-family:Arial;color:#2F4D92">'''Brand'''</span><span style="font-family:Arial;color:#6082B6">'''meister'''</span>]] [[User talk:Brandmeister|''t'']]   18:38, 11 February 2012 (UTC)
@@ -1500,7 +1579,11 @@ At least 400 people have died in Europe and part of Asia including Russia. 57 in
 {{cob}}
 ----
 ====[Posted] Baltasar Garzón banned====
-{{ITN candidate |article=Baltasar Garzón |blurb= Spanish judge '''[[Baltasar Garzón]]''' ''(pictured)'', known for helping arrest Chilean dictator [[Augusto Pinochet]] in 1998 and for attempting to investigate [[Francisco Franco|Franco]]-era crimes, is banned from the legal profession for 11 years. |sources=[http://www.bbc.co.uk/news/world-16965790 BBC] }}
+{{ITN candidate 
+| article=Baltasar Garzón 
+| blurb= Spanish judge '''[[Baltasar Garzón]]''' ''(pictured)'', known for helping arrest Chilean dictator [[Augusto Pinochet]] in 1998 and for attempting to investigate [[Francisco Franco|Franco]]-era crimes, is banned from the legal profession for 11 years. 
+| sources=[http://www.bbc.co.uk/news/world-16965790 BBC] 
+}}
 :'''support''' notable and others (other judges who supported him and journalists) have calld it a throwback to the undemocratic era.[[User:Lihaas|Lihaas]] ([[User talk:Lihaas|talk]]) 19:06, 9 February 2012 (UTC)
 :'''Support''' Judge with that much importance of the trials during his career is an important person. The update in the article looks decent as well.--[[User:Kiril Simeonovski|Kiril Simeonovski]] ([[User talk:Kiril Simeonovski|talk]]) 19:51, 9 February 2012 (UTC)
 :'''Support''', but actually the article update needs to include the lead. --[[User:FormerIP|FormerIP]] ([[User talk:FormerIP|talk]]) 01:20, 10 February 2012 (UTC)
@@ -1517,7 +1600,12 @@ At least 400 people have died in Europe and part of Asia including Russia. 57 in
 {{cob}}
 ----
 ====Homs====
-{{ITN candidate |article=February 2012 bombardment of Homs |blurb=In a [[scorched earth]] operation, the [[Syrian Army]] leveled the Inshaat quarter of '''[[February 2012 bombardment of Homs|Homs]]''', killing up to 100 people. |sources=[http://www.telegraph.co.uk/news/worldnews/middleeast/syria/9069388/Syria-activists-Up-to100-die-in-24-hours-as-Assads-tanks-roll-into-Homs.html Telegraph], [http://www.faz.net/aktuell/politik/ausland/syrien-aktivisten-armee-zerstoert-ganzes-viertel-von-homs-11641961.html FAZ] {{de icon}}, [http://www.aljazeera.com/indepth/features/2012/02/20122812238715489.html Al-Jazeera], [http://www.bbc.co.uk/news/world-middle-east-16941399 BBC] }}
+{{ITN candidate 
+| article=February 2012 bombardment of Homs 
+| blurb=In a [[scorched earth]] operation, the [[Syrian Army]] leveled the Inshaat quarter of '''[[February 2012 bombardment of Homs|Homs]]''', killing up to 100 people. 
+| sources=[http://www.telegraph.co.uk/news/worldnews/middleeast/syria/9069388/Syria-activists-Up-to100-die-in-24-hours-as-Assads-tanks-roll-into-Homs.html Telegraph], [http://www.faz.net/aktuell/politik/ausland/syrien-aktivisten-armee-zerstoert-ganzes-viertel-von-homs-11641961.html FAZ] {{de icon}}, [http://www.aljazeera.com/indepth/features/2012/02/20122812238715489.html Al-Jazeera], [http://www.bbc.co.uk/news/world-middle-east-16941399 BBC] 
+| sign = --[[User:Bender235|bender235]] ([[User talk:Bender235|talk]]) 17:40, 8 February 2012 (UTC)
+}}
 *'''Nominate'''. The 1982 [[Hama massacre]] repeats itself. --[[User:Bender235|bender235]] ([[User talk:Bender235|talk]]) 17:40, 8 February 2012 (UTC)
 *'''Oppose individual blurb — but strongly support sticky'''. I think we're now at the stage where there are likely to be daily sitreps coming in from Homs, so instead of nominating the new story every day, a sticky might work better. [[User:Strange Passerby|Strange Passerby]] ([[User talk:Strange Passerby|talk]] • [[Special:Contributions/Strange Passerby|cont]]) 18:18, 8 February 2012 (UTC)
 *'''Oppose full stop''' Highly charged and POV blurb does us no favours [[User:Doktorbuk|doktorb]] <sub>[[User talk:Doktorbuk|words]]</sub><sup>[[Special:Contributions/Doktorbuk|deeds]]</sup> 19:13, 8 February 2012 (UTC)
@@ -1671,7 +1759,14 @@ This is past its due-by date now. She died on the 5th, which is before all of th
 : Since we're running red and the article is in a good shape, posting. --'''[[User:Tone|Tone]]''' 10:42, 9 February 2012 (UTC)
 
 ====[Posted] Contador stripped of 2010 Tour; banned====
-{{ITN candidate|article=Alberto Contador|blurb=Spanish cyclist '''[[Alberto Contador]]''' is banned for two years for doping and stripped of his [[2010 Tour de France]] and [[2011 Giro d'Italia]] victories, with [[Andy Schleck]] and [[Michele Scarponi]] respectively promoted to race winner.|sources=http://www.bbc.co.uk/sport/0/cycling/16905217|nominator=Strange Passerby|nom cmt=Far bigger than the Armstrong story below; in any case, the Tour de France is an ITNR subject so there's clear significance in this ruling.|sign=[[User:Strange Passerby|Strange Passerby]] ([[User talk:Strange Passerby|talk]] • [[Special:Contributions/Strange Passerby|cont]]) 15:33, 6 February 2012 (UTC)}}
+{{ITN candidate
+| article=Alberto Contador
+| blurb=Spanish cyclist '''[[Alberto Contador]]''' is banned for two years for doping and stripped of his [[2010 Tour de France]] and [[2011 Giro d'Italia]] victories, with [[Andy Schleck]] and [[Michele Scarponi]] respectively promoted to race winner.
+| sources=http://www.bbc.co.uk/sport/0/cycling/16905217
+| nominator=Strange Passerby
+| nom cmt=Far bigger than the Armstrong story below; in any case, the Tour de France is an ITNR subject so there's clear significance in this ruling.
+| sign=[[User:Strange Passerby|Strange Passerby]] ([[User talk:Strange Passerby|talk]] • [[Special:Contributions/Strange Passerby|cont]]) 15:33, 6 February 2012 (UTC)
+}}
 
 *'''Support'''. International news story, definitely notable. Not sure if there's a better article/section to link to? Perhaps [[Alberto Contador#Doping allegations]]? Mention could also be made of the authority stripping him of the titles ([[Court of Arbitration for Sport]], I presume?). '''<font color="blue">[[User:IgnorantArmies|<span style="color:blue">I</span>]][[Special:Contributions/IgnorantArmies|<span style="color:red">♦</span>]][[User talk:IgnorantArmies|<span style="color:blue">A</span>]]</font>''' 15:54, 6 February 2012 (UTC) 
 *'''Support''' - as we regularly mark the TdF winners in ITN, we should also post this. [[User:Crnorizec|Crnorizec]] ([[User talk:Crnorizec|talk]]) 19:38, 6 February 2012 (UTC)
@@ -2168,13 +2263,23 @@ Following the withdrawal of [[Arab League]] '''[[Arab League Monitors in Syria|m
 {|{{Portal:Current events/2012 February 1}}
 {{cob}}
 ==== Death of [[Angelo Dundee]] ====
-{{ITN candidate|article=Angelo Dundee|blurb=Boxing trainer [[Angelo Dundee]] dies at 90.|nominator=Secret|sources=[http://www.sfgate.com/cgi-bin/article.cgi?f=/n/a/2012/02/01/national/a193737S93.DTL]}}
+{{ITN candidate
+| article=Angelo Dundee
+| blurb=Boxing trainer [[Angelo Dundee]] dies at 90.
+| nominator=Secret|sources=[http://www.sfgate.com/cgi-bin/article.cgi?f=/n/a/2012/02/01/national/a193737S93.DTL]
+}}
 * Just recently confirmed, probably the most famous and influential boxing trainer in history. Trained Muhammad Ali and Sugar Ray Leonard. Also a huge ambassador for the sport.  [[User:Secret|Secret]] <sup>[[User talk:Secret|account]]</sup> 03:53, 2 February 2012 (UTC)
 :'''oppose''' Corenlius was far more notable in more than his area.[[User:Lihaas|Lihaas]] ([[User talk:Lihaas|talk]]) 06:50, 2 February 2012 (UTC)
 *'''Oppose'''. A mere trainer, dying at very old age. No impact on current events. For recent deaths. --[[User:Mkativerata|Mkativerata]] ([[User talk:Mkativerata|talk]]) 10:31, 2 February 2012 (UTC)
 
 ====[[Facebook#IPO|Facebook's record setting IPO]]====
-{{ITN Candidate|article=Facebook|blurb=[[Facebook]]'s [[initial public offering]] is set at [[USD]]$5 billion, a record for an internet company.| nominator    = Muboshgu|updater=Muboshgu|updater2=Ash1402|sources=[http://news.google.com/news/more?pz=1&cf=all&ncl=diPgPOIBdsAC3HMyMB-mtigkQ7_dM&topic=h]}}
+{{ITN Candidate
+| article=Facebook
+| blurb=[[Facebook]]'s [[initial public offering]] is set at [[USD]]$5 billion, a record for an internet company.
+| nominator    = Muboshgu
+| updater=Muboshgu|updater2=Ash1402
+| sources=[http://news.google.com/news/more?pz=1&cf=all&ncl=diPgPOIBdsAC3HMyMB-mtigkQ7_dM&topic=h]
+}}
 :not a chance this goes near itn. no subscriptions, no date of listing. only a confirmed intention.[[User:Lihaas|Lihaas]] ([[User talk:Lihaas|talk]]) 01:51, 2 February 2012 (UTC)
 *Agree with Lihaas. If anything, we should '''wait''' until Facebook is actually traded. Until now, they've only filed the paperwork. --[[User:Bender235|bender235]] ([[User talk:Bender235|talk]]) 11:06, 2 February 2012 (UTC)
 
