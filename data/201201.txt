@@ -226,7 +226,11 @@ Marking as ready (I would post, but I !voted) [[User:Mjroots|Mjroots]] ([[User t
 : Posting. There's enough prose regarding the both finals. And we can add some new photos. --'''[[User:Tone|Tone]]''' 13:34, 31 January 2012 (UTC)
 
 ====Protests in Senegal====
-{{ITN candidate |article=Senegalese presidential election, 2012 |blurb=Clashes erupt in [[Senegal]], after [[Constitutional Court of Senegal|its constitutional court]] allowed [[Abdoulaye Wade]] to run for a third term as [[President of Senegal|president]] in the '''[[Senegalese presidential election, 2012|upcoming election]]'''. |sources=[http://www.bbc.co.uk/news/world-africa-16770305 BBC], [http://edition.cnn.com/2012/01/28/world/africa/senegal-political-unrest/index.html CNN], [http://www.voanews.com/english/news/Senegal-Braces-for-Possible-Political-Violence-138259199.html Voice of America], [http://af.reuters.com/article/topNews/idAFJOE80S00820120129 Reuters] }}
+{{ITN candidate
+| article=Senegalese presidential election, 2012
+| blurb=Clashes erupt in [[Senegal]], after [[Constitutional Court of Senegal|its constitutional court]] allowed [[Abdoulaye Wade]] to run for a third term as [[President of Senegal|president]] in the '''[[Senegalese presidential election, 2012|upcoming election]]'''.
+| sources=[http://www.bbc.co.uk/news/world-africa-16770305 BBC], [http://edition.cnn.com/2012/01/28/world/africa/senegal-political-unrest/index.html CNN], [http://www.voanews.com/english/news/Senegal-Braces-for-Possible-Political-Violence-138259199.html Voice of America], [http://af.reuters.com/article/topNews/idAFJOE80S00820120129 Reuters]
+}}
 '''Nominate'''. --[[User:Bender235|bender235]] ([[User talk:Bender235|talk]]) 19:26, 28 January 2012 (UTC)
 *'''Comment:''' Needs update and a clarification on the size of the attacks (were they major? how many killed?)  The size of the clashes would determine notability. '''[[User:Spencer|<span style="color:#082567">Spencer</span>]]'''<sup>[[User talk:Spencer|<span style="color:#FFBF00">T♦</span>]][[Special:Contributions/Spencer|<span style="color:#FFBF00">C</span>]]</sup> 19:45, 28 January 2012 (UTC)
 :*'''Comment''' I just checked for the same. AP, BBC, Reuters, no one seems to have numbers. Also it looks like it was only 1 day. --[[Special:Contributions/76.18.43.253|76.18.43.253]] ([[User talk:76.18.43.253|talk]]) 22:17, 28 January 2012 (UTC)
@@ -1564,7 +1568,11 @@ Death of former presidents are normally notable. [[Northern Cyprus]] is only rec
 {{cob}}
 ----
 ====[Posted] Burma-Karen peace talks====
-{{ITN candidate|article=Internal conflict in Burma |blurb=In [[Burma]], [[State Peace and Development Council|government officials]] and the [[Karen National Union]] agree on a ceasefire to end an '''[[Internal conflict in Burma|internal conflict]]''' that began in 1948.|sources=[http://www.bbc.co.uk/news/world-asia-16523691 BBC], [http://www.aljazeera.com/news/asia-pacific/2012/01/201211261327632470.html Al Jazeera] }}
+{{ITN candidate
+| article=Internal conflict in Burma
+| blurb=In [[Burma]], [[State Peace and Development Council|government officials]] and the [[Karen National Union]] agree on a ceasefire to end an '''[[Internal conflict in Burma|internal conflict]]''' that began in 1948.
+| sources=[http://www.bbc.co.uk/news/world-asia-16523691 BBC], [http://www.aljazeera.com/news/asia-pacific/2012/01/201211261327632470.html Al Jazeera]
+}}
 It was the lead story on BBC World Service this morning, and NPR too if I remember correctly. [http://www.bbc.co.uk/news/world-asia-16523691 BBC], [http://www.cnn.com/2012/01/12/world/asia/myanmar-cease-fire/?hpt=wo_c2 CNN], [http://www.ajc.com/news/nation-world/myanmar-signs-crucial-cease-1300187.html Associated Press] '''<font color="navy">[[User:NuclearWarfare|NW]]</font>''' ''(<font color="green">[[User talk:NuclearWarfare|Talk]]</font>)'' 14:27, 12 January 2012 (UTC)
 *'''Support'''. Ends one of world's longest-running civil conflicts. --[[User:Bender235|bender235]] ([[User talk:Bender235|talk]]) 15:41, 12 January 2012 (UTC)
 *'''Support''', but the article needs a considerable update. Also, the timeline in 2011 section needs to be improved. --'''[[User:Tone|Tone]]''' 15:45, 12 January 2012 (UTC)
@@ -1604,7 +1612,11 @@ I'd say it's time for some science stories, the world's smallest vertebrae disco
 ----
 
 ====Iranian nuclear scientist assassinated====
-{{ITN candidate|article=Mostafa Ahmadi-Roshan |blurb=Iranian nuclear scientist '''[[Mostafa Ahmadi-Roshan]]''' assassinated in a car-bomb explosion, prompting calls in Iran for retaliation against the West. |sources=[http://www.bbc.co.uk/news/world-middle-east-16501566 BBC], [http://www.reuters.com/article/2012/01/11/us-iran-idUSTRE8090ZL20120111 Reuters], [http://www.nytimes.com/2012/01/13/world/middleeast/iran-outrage-over-scientist-killing-deepens-as-it-signals-revenge.html?ref=world New York Times], [http://news.yahoo.com/iran-accuses-israel-us-killing-nuclear-scientist-035230434.html AFP]}}
+{{ITN candidate
+| article=Mostafa Ahmadi-Roshan 
+| blurb=Iranian nuclear scientist '''[[Mostafa Ahmadi-Roshan]]''' assassinated in a car-bomb explosion, prompting calls in Iran for retaliation against the West.
+| sources=[http://www.bbc.co.uk/news/world-middle-east-16501566 BBC], [http://www.reuters.com/article/2012/01/11/us-iran-idUSTRE8090ZL20120111 Reuters], [http://www.nytimes.com/2012/01/13/world/middleeast/iran-outrage-over-scientist-killing-deepens-as-it-signals-revenge.html?ref=world New York Times], [http://news.yahoo.com/iran-accuses-israel-us-killing-nuclear-scientist-035230434.html AFP]
+}}
 The assassination produced a furious reaction in Iran; the kind of an event that makes some kind of a military blow-up between Iran and the West more likely. [[User:Nsk92|Nsk92]] ([[User talk:Nsk92|talk]]) 20:09, 13 January 2012 (UTC)
 
 '''Support''': Notable assassination which further deteriorates the already fragile relations between Iran and "the West", especially in light of calls for retaliation from within Iran (although I doubt they will actually retaliate). There has been a series of such assassinations - is there an article on that? May be worthwhile to link the same as well. [[User:Chocolate Horlicks|Chocolate Horlicks]] ([[User talk:Chocolate Horlicks|talk]]) 03:18, 14 January 2012 (UTC)
