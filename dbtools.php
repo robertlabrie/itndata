@@ -27,7 +27,7 @@ if ($argv[1] == "delete")
 
 if ($argv[1] == 'backup')
 {
-	$stamp = date("Ymdhis");
+	$stamp = date("YmdHis");
 	$exec = "mysqldump -u itndata -pitndata itndata > backup/itndata.$stamp.sql";
 	echo "$exec\n";
 	exec($exec);
@@ -35,7 +35,7 @@ if ($argv[1] == 'backup')
 
 if ($argv[1] == 'pump')
 {
-	$stamp = date("Ymdhis");
+	$stamp = date("YmdHis");
 	$exec = "mysqldump -t -c -u itndata -pitndata itndata tmp_noms tmp_vote";
 	$output = Array();
 	exec($exec, $output);
@@ -46,4 +46,7 @@ if ($argv[1] == 'pump')
 	file_put_contents("backup/pump.sql",$output);
 	exec("mysql -u itndata -pitndata < backup/pump.sql");
 }
-
+/*
+delete from noms where datafile = "data/201201.txt"
+delete from vote where hash not in (select nhash from noms);
+*/
