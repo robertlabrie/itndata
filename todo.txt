@@ -1,6 +1,7 @@
-*change business - oil to business - energy
 *some contests are awards
-*business:weapons -> business->defense
+*awards should be the country of the winner, but listed as multi-nation
 ---done---
 *civil unrest - protests
 *civil unrest - society ?
+*business:weapons -> business->defense
+*change business - oil to business - energy
