@@ -439,7 +439,7 @@ I really have to disagree w/ [[User:Kevin McE|Kevin McE]] --and that's not somet
 
 ::'''alternate blurb''' might be something like this? [[User:EdwardLane|EdwardLane]] ([[User talk:EdwardLane|talk]]) 18:42, 26 March 2012 (UTC) [[Deepsea Challenger]] completes the first solo voyage to reach the [[Challenger Deep]] in the [[Mariana Trench]], the deepest point on earth.
 *'''Weak Oppose''', would support if James Cameron was removed from the blurb. [[User:Karl 334|<span style="font-family:Comic Sans MS; color:Blue">'''Karl 334'''</span>]] [[User talk:Karl 334|<font color="Red"><sup><big>☞</big>''Talk'' <big>☜</big></sup>]]</font> 18:43, 26 March 2012 (UTC)
-: Well, given the fact that we didn't have new posts for more than two days (apart from Mali update) and that there is a rough consensus for this story without mentioning Cameron, posting. Feel free to modify. --'''[[User:Tone|Tone]]''' 19:58, 26 March 2012 (UTC)
+: '''posted''' Well, given the fact that we didn't have new posts for more than two days (apart from Mali update) and that there is a rough consensus for this story without mentioning Cameron, posting. Feel free to modify. --'''[[User:Tone|Tone]]''' 19:58, 26 March 2012 (UTC)
 ::'''Comment''' Tone - it shouldn't matter or be a consideration that no story has been posted for x number of days. I'm not going to drag this out, that said. I think my support for nominations runs at 7 out of every ten; this is not one of them. [[User:Doktorbuk|doktorb]] <sub>[[User talk:Doktorbuk|words]]</sub><sup>[[Special:Contributions/Doktorbuk|deeds]]</sup> 20:02, 26 March 2012 (UTC)
 ::: Acknowledged. Well, the story is now featured as an engineering achievement and there was a considerable support for this part. --'''[[User:Tone|Tone]]''' 20:04, 26 March 2012 (UTC)
 
@@ -917,7 +917,7 @@ I really have to disagree w/ [[User:Kevin McE|Kevin McE]] --and that's not somet
 ::::It is ready to post if someone wants to help this out. (which is being blocked by adamant refusals to accomodate)[[User:Lihaas|Lihaas]] ([[User talk:Lihaas|talk]]) 08:18, 19 March 2012 (UTC) 
 ::::: So what't the thing with succession now? It would be nice to mention the successor in the blurb as well. --'''[[User:Tone|Tone]]''' 10:37, 19 March 2012 (UTC)
 ::::::Agreed as sucess'''or''' not as ''monarch'' 9what the abusive diktats of WP editor seems to believe that he doesnt need anythin gbut his word.[[User:Lihaas|Lihaas]] ([[User talk:Lihaas|talk]]) 14:13, 19 March 2012 (UTC) 
-::::::: Well, well, posting without mentioning the successor then... --'''[[User:Tone|Tone]]''' 14:44, 19 March 2012 (UTC)
+::::::: Well, well, '''posting''' without mentioning the successor then... --'''[[User:Tone|Tone]]''' 14:44, 19 March 2012 (UTC)
 *'''Support''' it's being reported by CNN [http://www.cnn.com/2012/03/18/world/asia/tonga-king-dead/index.html?hpt=hp_t3]. [[User:Carlossuarez46|Carlossuarez46]] ([[User talk:Carlossuarez46|talk]]) 23:32, 18 March 2012 (UTC)
 *'''Comment''' shouldn't this be below skiing in the template? --[[Special:Contributions/76.18.43.253|76.18.43.253]] ([[User talk:76.18.43.253|talk]]) 20:23, 19 March 2012 (UTC)
 
@@ -941,7 +941,7 @@ I really have to disagree w/ [[User:Kevin McE|Kevin McE]] --and that's not somet
 **The update is currently too short. --[[User:BorgQueen|BorgQueen]] ([[User talk:BorgQueen|talk]]) 14:43, 18 March 2012 (UTC)
 ***There is a perfectly adequate article about the event (election) ([[German presidential election, 2012]]) and additionally a perfectly adequate section on the election in the relevant biography. The entire article German presidential election, 2012 relates to the election/event that took place today, not only the material on the most recent developments. When it comes to the actual voting today, there is hardly much more to say. Do I need to point out examples, one after another, of events posted with much shorter articles and less updating? [[User:Josh Gorand|Josh Gorand]] ([[User talk:Josh Gorand|talk]])
 ****Thanks for the detailed reply. Very well, I will let another admin judge that. --[[User:BorgQueen|BorgQueen]] ([[User talk:BorgQueen|talk]]) 14:54, 18 March 2012 (UTC)
-: Posting. The update of today is short indeed, but not much can be said, as pointed out above. --'''[[User:Tone|Tone]]''' 16:01, 18 March 2012 (UTC)
+: '''Posting'''. The update of today is short indeed, but not much can be said, as pointed out above. --'''[[User:Tone|Tone]]''' 16:01, 18 March 2012 (UTC)
 
 ===Guinea Bissau election===
 {{ITN candidate
@@ -1080,7 +1080,13 @@ Nominator's note: Considering the political importance of WikiLeaks and Julian A
 :'''oppose''' to man y deaths for ITN...Shenouda is undoubtedly more notable.[[User:Lihaas|Lihaas]] ([[User talk:Lihaas|talk]]) 08:29, 18 March 2012 (UTC)
 
 === Execution of the Minsk Metro bombing convicts ===
-{{ITN candidate|article=2011 Minsk Metro bombing|blurb=Ulad Kavalyou and Dzimitry Kanavalau, the '''[[2011 Minsk Metro bombing]]''' convicts, are executed by [[Execution by shooting|shooting]].|updated=yes|nominator=Brandmeister|sign =[[User:Brandmeister|<span style="font-family:Arial;color:#2F4D92">'''Brand'''</span><span style="font-family:Arial;color:#6082B6">'''meister'''</span>]]<sup>[[User talk:Brandmeister|talk]]</sup> 12:13, 17 March 2012 (UTC)}}
+{{ITN candidate
+| article=2011 Minsk Metro bombing
+| blurb=Ulad Kavalyou and Dzimitry Kanavalau, the '''[[2011 Minsk Metro bombing]]''' convicts, are executed by [[Execution by shooting|shooting]].
+| updated=yes
+|nominator=Brandmeister
+|sign =[[User:Brandmeister|<span style="font-family:Arial;color:#2F4D92">'''Brand'''</span><span style="font-family:Arial;color:#6082B6">'''meister'''</span>]]<sup>[[User talk:Brandmeister|talk]]</sup> 12:13, 17 March 2012 (UTC)
+}}
 	
 *'''Oppose'''. People are executed all the time. Deceased doesn't even have an article. I'm not seeing any significance whatsoever. [[User:Strange Passerby|Strange Passerby]] ([[User talk:Strange Passerby|talk]] • [[Special:Contributions/Strange Passerby|cont]]) 12:14, 17 March 2012 (UTC)
 *:Belarus is the only country in Europe that [[Capital punishment in Europe|retains capital punishment]]. Deceased doesn't have an article because of [[WP:ONEEVENT]]. [[User:Brandmeister|<span style="font-family:Arial;color:#2F4D92">'''Brand'''</span><span style="font-family:Arial;color:#6082B6">'''meister'''</span>]]<sup>[[User talk:Brandmeister|talk]]</sup>   12:40, 17 March 2012 (UTC)
@@ -1215,7 +1221,7 @@ Nominator's note: Considering the political importance of WikiLeaks and Julian A
 ::<strike>Like what? theres a massive sourced paragraph and result? what else? Also reactios now</strike> Added more reactions and protests, etc...should be ready now.[[User:Lihaas|Lihaas]] ([[User talk:Lihaas|talk]]) 16:08, 16 March 2012 (UTC)   
 *'''Support''' once the article gets a significant update. To call Moldova, with a population of over 4 million a very small country is ignorant at best. That is more than half of the US states and is ~40% of the population of Greece which we have been posting about every month, In addition, this crisis has been going on for a year now, and it is not often that a country goes without a president for a year. [[User:Nergaal|Nergaal]] ([[User talk:Nergaal|talk]]) 15:03, 16 March 2012 (UTC)
 :'''comment''' someonemar ready pretty pweese...;)[[User:Lihaas|Lihaas]] ([[User talk:Lihaas|talk]]) 17:57, 16 March 2012 (UTC)
-:: Posting. The election article is a long one, too bad that the president's one is merely a stub... --'''[[User:Tone|Tone]]''' 19:41, 16 March 2012 (UTC)
+:: '''Posting'''. The election article is a long one, too bad that the president's one is merely a stub... --'''[[User:Tone|Tone]]''' 19:41, 16 March 2012 (UTC)
 :::Was just created yest. Piyu i missed out...should havd caught it early like Andorras presient and the nobel peace laureate ;)[[User:Lihaas|Lihaas]] ([[User talk:Lihaas|talk]]) 09:10, 17 March 2012 (UTC)
 
 === ISAF helicopter crash ===
@@ -1432,7 +1438,7 @@ Nominator's note: Considering the political importance of WikiLeaks and Julian A
 *'''Support''' as nominator.  [[User:Crnorizec|Crnorizec]] ([[User talk:Crnorizec|talk]]) 16:54, 14 March 2012 (UTC)
 *'''Support''' - Valais police chief Christian Varone described the scene as "like a war". [[User:Marcus Qwertyus|<font color="#21421" >'''Marcus'''</font>]] [[User talk:Marcus Qwertyus|<font color="#CC7722" >'''Qwertyus'''</font>]]  17:30, 14 March 2012 (UTC)
 ::Thats case switzerland has not seen a war.[[User:Lihaas|Lihaas]] ([[User talk:Lihaas|talk]]) 18:15, 14 March 2012 (UTC) 
-: Posted. --'''[[User:Tone|Tone]]''' 17:39, 14 March 2012 (UTC)
+: '''Posted'''. --'''[[User:Tone|Tone]]''' 17:39, 14 March 2012 (UTC)
 ::its been 9 hrs, were not short on timer.../lets give it time for others across the world to wake up (9-18 o clock is only european time so theresd obviously be support). its NOT a minority topic and it only has 3-1 support (bearing in mind we dont vote count for consensus so "per nom" doesnt hold much water. The blurb needs work too...''and there is a tag on a massively unsourced section (The same reason bahrain was removed)...thre was also on,y TWo sources at the time of posting. Is thre a REASON for the post? articles get shot down for lack of posting/
 :::Further, the article is poor. ONE source for the main section 1 para tentences. needs organisation and further sources...again time is not against us[[User:Lihaas|Lihaas]] ([[User talk:Lihaas|talk]]) 18:14, 14 March 2012 (UTC)
 ::::Agree with Lihaas. This is one of the worst ITN articles I've seen, quality wise. A bus crashed. Some kids are dead. That's about it. Lets just let any old piss-poor article through to the frontpage. Where's the quality control? '''[[User:Lugnuts|<font color="002bb8">Lugnuts</font>]]''' ([[User talk:Lugnuts|talk]]) 20:13, 14 March 2012 (UTC)
@@ -1587,7 +1593,7 @@ Nominator's note: Considering the political importance of WikiLeaks and Julian A
 :::: We've had Belize picture already. But I see, it's unlikely that Cristiani will form the government. Typically, the ITN blurb reads "X party, led by Y, wins..." So I'd like to hear some more comments on the blurb. --'''[[User:Tone|Tone]]''' 08:56, 13 March 2012 (UTC)
 :::::There is no govt formation in the presidential system in place here. Not the same way as parliamentary systems. As in Peru, where humala decides the cabinet and puts a pm (although ES doesnt seem to have a pm even). Jusst control the legislative agenda (though Funes is gonna be a lame-duck now if he cant rope in one of the smaller parties for the 1 seat majority needed ;))[[User:Lihaas|Lihaas]] ([[User talk:Lihaas|talk]]) 09:02, 13 March 2012 (UTC)
 :The plurality blurb seems OK to me.  The alternate would be to list the # of seats won by the main two political parties. I don't think it would be appropriate to say "led by X" in a presidential system, as the X does not become the country's leader. --[[User:ThaddeusB|ThaddeusB]] ([[User talk:ThaddeusB|talk]]) 15:04, 13 March 2012 (UTC)
-: Very well, posting. --'''[[User:Tone|Tone]]''' 15:38, 13 March 2012 (UTC)
+: Very well, '''posting'''. --'''[[User:Tone|Tone]]''' 15:38, 13 March 2012 (UTC)
 ::ARENA is the [[WP:Common name]]...[http://en.wikipedia.org/w/index.php?title=Template:In_the_news&diff=481696745&oldid=481695809 Thi s is a unilateral unexlplained edit]
 :::IF need be can ad "leader pictured"[[User:Lihaas|Lihaas]] ([[User talk:Lihaas|talk]]) 15:53, 13 March 2012 (UTC)
 The adjective of El Salvador is just ''Salvadoran'', not "El Salvadoran". Could someone please change? --[[User:RJFF|RJFF]] ([[User talk:RJFF|talk]]) 16:38, 13 March 2012 (UTC)
@@ -1770,7 +1776,7 @@ The large majority of users voting on this issue thus far have decided in favour
 :::Yep, my bad...results were affirmed higher later...initially some 35-odd
 :::Also, added Fico to blurb
 ::::Markign ready as results in and section prose added. Perhaps wait a few hours so timer doent go red so soon[[User:Lihaas|Lihaas]] ([[User talk:Lihaas|talk]]) 13:54, 11 March 2012 (UTC)
-: Posting. The article is fine. I'll just write majority, if it is not absolute, we use the term plurality instead. --'''[[User:Tone|Tone]]''' 15:44, 11 March 2012 (UTC)
+: '''Posting'''. The article is fine. I'll just write majority, if it is not absolute, we use the term plurality instead. --'''[[User:Tone|Tone]]''' 15:44, 11 March 2012 (UTC)
 ::It is absolute 84/150
 ::also Fico has a pic[[User:Lihaas|Lihaas]] ([[User talk:Lihaas|talk]]) 16:49, 11 March 2012 (UTC)
 
@@ -2024,7 +2030,17 @@ So what milestones in the Greek story are important and which aren't? This could
 {{cob}}
 ----
 ==== Third iPad ====
-{{ITN candidate|article=iPad (3rd generation)|blurb=[[Apple Inc.]] unveils its [[iPad (3rd generation)|third generation iPad]].|sources=[http://www.latimes.com/business/technology/la-fi-tn-apple-ipad-3-what-to-expect-at-todays-apple-event-20120307,0,2438621.story]|minority=yes|nominator=Muboshgu|updater=Acps110|updater2=DreamFieldArts|updater3=Themeparkgc|nom cmt=Press event set to begin at 10am PST, at which point the article will begin to be updated.}}
+{{ITN candidate
+| article=iPad (3rd generation)
+| blurb=[[Apple Inc.]] unveils its [[iPad (3rd generation)|third generation iPad]].
+| sources=[http://www.latimes.com/business/technology/la-fi-tn-apple-ipad-3-what-to-expect-at-todays-apple-event-20120307,0,2438621.story]
+| minority=yes
+| nominator=Muboshgu
+| updater=Acps110
+| updater2=DreamFieldArts
+| updater3=Themeparkgc
+| nom cmt=Press event set to begin at 10am PST, at which point the article will begin to be updated.
+}}
 *'''Oppose with every strength I have in my body and thought in my mind''' A PR release is not a news story. An iPad is not a news story. This is just a piece of fluff and nonsense. [[User:Doktorbuk|doktorb]] <sub>[[User talk:Doktorbuk|words]]</sub><sup>[[Special:Contributions/Doktorbuk|deeds]]</sup> 17:53, 7 March 2012 (UTC)
 *'''Wait'''. If anything, we should have posted the first one as it was something really new. This is just a new version, so it seems. Unless... --'''[[User:Tone|Tone]]''' 18:02, 7 March 2012 (UTC)
 *'''Strongest of opposes''' - Should read "Apple has decided that the MSRP for iPad 2 is no longer high enough and has unveiled an almost identical product that will restore the original expensive price" - '''[[User:Floydian|<font color="#5A5AC5">ʄɭoʏɗiaɲ</font>]]'''&nbsp;<sup>[[User_talk:Floydian|<font color="#3AAA3A">τ</font>]]</sup> <sub>[[Special:Contributions/Floydian|<font color="#3AAA3A">¢</font>]]</sub> 18:05, 7 March 2012 (UTC)
@@ -2113,7 +2129,7 @@ And in that case it is a total waste of time posting it here before there is an 
 ::::::Expectes resultds are given in the opinion polls section (which is also this time in prose with soldi paragraphs) Also issues are thoroughly mentioned and sourced
 :::::::Article is wholly source with massive prose in opinion polls. Data on election in the first paragraph on the section, result prose and l;ead as well as municipal prose. Weve posted election withless eve.[[User:Lihaas|Lihaas]] ([[User talk:Lihaas|talk]]) 06:41, 9 March 2012 (UTC)
 :Reactions and analysis have been added. Now it is really ready to be posted. --[[User:RJFF|RJFF]] ([[User talk:RJFF|talk]]) 11:14, 9 March 2012 (UTC)
-: Nice work. Posting. --'''[[User:Tone|Tone]]''' 14:06, 9 March 2012 (UTC)
+: Nice work. '''Posting'''. --'''[[User:Tone|Tone]]''' 14:06, 9 March 2012 (UTC)
 ::That's more like it. Thanks to those who put in the work. --[[User:FormerIP|FormerIP]] ([[User talk:FormerIP|talk]]) 22:14, 9 March 2012 (UTC)
 *Suggest image on the right (getting tired of Putin already ;) --[[User:Hydrox|hydrox]] ([[User talk:Hydrox|talk]]) 16:43, 9 March 2012 (UTC)
 
@@ -2163,7 +2179,7 @@ Been around for over a week now and stuff is starting to slow from there. For ex
 **P.S. Most likely, the entire village of 200 is dead less than 6 known survivors. --[[User:ThaddeusB|ThaddeusB]] ([[User talk:ThaddeusB|talk]]) 07:20, 8 March 2012 (UTC)
 '''Support''' the article seems in decent shape to me - stub tag should probably be removed.[[User:EdwardLane|EdwardLane]] ([[User talk:EdwardLane|talk]]) 09:24, 8 March 2012 (UTC)
 *'''Support''': Notability beyond question. Article is also nice and fat now (will get only better with ITN posting). [[User:Chocolate Horlicks|Chocolate Horlicks]] ([[User talk:Chocolate Horlicks|talk]]) 10:21, 8 March 2012 (UTC)
-* Posting. Nice work with the updating, that's one decent article now. --'''[[User:Tone|Tone]]''' 13:26, 8 March 2012 (UTC)
+* '''Posting'''. Nice work with the updating, that's one decent article now. --'''[[User:Tone|Tone]]''' 13:26, 8 March 2012 (UTC)
 * '''Protip''': You'd get less "oppose no article" and "oppose article sucks" votes cluttering up the works if you waited to nom until after a viable article existed. That used to be a requirement. Seems not to be anymore. --[[User:Golbez|Golbez]] ([[User talk:Golbez|talk]]) 14:43, 8 March 2012 (UTC)
 : Well, if nothing else, mentioning the story here brings some viewers to the topic and makes the article grow faster. --'''[[User:Tone|Tone]]''' 16:00, 8 March 2012 (UTC)
 ::I didn't nominate the article, but I did write it.  If it hadn't been nominated, I may have never written it (or even known about the story). --[[User:ThaddeusB|ThaddeusB]] ([[User talk:ThaddeusB|talk]]) 18:39, 8 March 2012 (UTC)
@@ -2356,7 +2372,7 @@ Been around for over a week now and stuff is starting to slow from there. For ex
 *'''Support''' - Major disaster.  I have substantially expanded the article, so it now ready to post. --[[User:ThaddeusB|ThaddeusB]] ([[User talk:ThaddeusB|talk]]) 05:27, 5 March 2012 (UTC)
 *'''Support''' - per above. [[User:Jusdafax|<font color="green">Jus</font>]][[User talk:Jusdafax|<font color="C1118C">da</font>]][[Special:Contributions/Jusdafax|<font color="#0000FF">fax</font>]]  05:56, 5 March 2012 (UTC)
 *'''Support'''. Significant loss of lives. Suggest changing "blasts" to "explosions" in the blurb. '''<font color="blue">[[User:IgnorantArmies|<span style="color:blue">I</span>]][[Special:Contributions/IgnorantArmies|<span style="color:red">♦</span>]][[User talk:IgnorantArmies|<span style="color:blue">A</span>]]</font>''' 06:38, 5 March 2012 (UTC)
-: Posting. --'''[[User:Tone|Tone]]''' 08:01, 5 March 2012 (UTC)
+: '''Posting'''. --'''[[User:Tone|Tone]]''' 08:01, 5 March 2012 (UTC)
 
 ==== [[Ralph McQuarrie]] ====
 {{ITN candidate
