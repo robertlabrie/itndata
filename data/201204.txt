@@ -35,7 +35,20 @@ any comments regarding this page should be directed to [[Wikipedia talk:In the n
 ::Ok, but that sounds pretty much unremarkable to me then... [[User:Khuft|Khuft]] ([[User talk:Khuft|talk]]) 22:39, 2 May 2012 (UTC)
 
 ==== One World Trade Center ====
-{{ITN candidate |  article=One World Trade Center  | blurb = [[One World Trade Center]] becomes the tallest building in [[New York City]].  | sources = http://www.bbc.co.uk/news/world-us-canada-17898138 | updated = yes | updated2 = | nominator = Khazar2 | updater =  | ITNR = no | minority = yes | note = <!-- Can be used to note potential problems with the nomination or article. --> | nom cmt = Besides the history here, there's the simple fact that one of the world's largest cities has a new tallest building. | sign = -- [[User:Khazar2|Khazar2]] ([[User talk:Khazar2|talk]]) 00:06, 1 May 2012 (UTC) <!-- Do NOT change this --> }}
+{{ITN candidate
+|  article=One World Trade Center  
+| blurb = [[One World Trade Center]] becomes the tallest building in [[New York City]].  
+| sources = http://www.bbc.co.uk/news/world-us-canada-17898138 
+| updated = yes 
+| updated2 = 
+| nominator = Khazar2 
+| updater =  
+| ITNR = no 
+| minority = yes 
+| note = <!-- Can be used to note potential problems with the nomination or article. --> 
+| nom cmt = Besides the history here, there's the simple fact that one of the world's largest cities has a new tallest building. 
+| sign = -- [[User:Khazar2|Khazar2]] ([[User talk:Khazar2|talk]]) 00:06, 1 May 2012 (UTC) <!-- Do NOT change this --> 
+}}
 *'''Oppose'''- I don't think that we should post this until construction is finished and it is officially opened. Otherwise, the only newsworthy thing that happened was that it became the tallest building in its own city. However, I would like to note that this is indeed a minority topic. <ins>That has now been reflected in the nom.</ins> [[User:Bzweebl|<font color="#D60047">B</font><font color="#F0A000">zw</font><font color="#00A300">ee</font><font color="#0A47FF">bl</font>]]  ([[User talk:Bzweebl|talk]]) 00:14, 1 May 2012 (UTC)
 *'''Oppose''' (history aside) what is significant about being the tallest building in a given city ? wait until it opens when it will be the tallest building in the Western Hemisphere (assuming that it is when it opens). [[User:Mtking|<span style="color:Green;text-shadow:lightgreen 0.110em 0.110em 0.110em;">Mt</span>]][[User talk:Mtking|<span style="color:gold;">king</span>]]<sup>[[Special:Contributions/Mtking|<font color="gold"> (edits) </font>]]</sup> 00:33, 1 May 2012 (UTC)
 *'''Support''' - Interesting and significant symbol of an event that changed the modern world forever. Article update is in the construction section and could be expanded. Article is in great shape, however. I feel this is an excellent item for ITN. [[User:Jusdafax|<font color="green">Jus</font>]][[User talk:Jusdafax|<font color="C1118C">da</font>]][[Special:Contributions/Jusdafax|<font color="#0000FF">fax</font>]]  00:36, 1 May 2012 (UTC)
@@ -56,7 +69,21 @@ any comments regarding this page should be directed to [[Wikipedia talk:In the n
 ******I agree that a case-by-case basis is best (and am fine with waiting for the official opening, of course); I'm just making the case that these shouldn't be automatically excluded. A new tallest building in New York or Tokyo to me is interesting geographical/technical news because there have been so few; reviewing this closer, however, it looks like Mumbai's record changed hands seven times in the last few years, making it far less remarkable if it turned over again. I'm less worried about the [[slippery slope]] concerns, though; the reason that's generally considered a logical fallacy is that there's nothing we could ever post that someone couldn't respond "but doesn't that mean we need to include every ''X'' ever?" A reasonable precedent (a building in a top-10 city, a long-standing record) would still allow us to determine a cut-off point down the road in the unlikely scenario that these articles come to dominate ITN. If the flagpole record has been broken twice in a year, for example, it doesn't seem very newsworthy. In NYC's case, on the other hand, this would only be the third structure since 1931 to surpass the Empire State Building. [[User:Khazar2|Khazar2]] ([[User talk:Khazar2|talk]]) 18:05, 2 May 2012 (UTC)
 
 ==== Best restaurant in the world ====
-{{ITN candidate |  article=The World's 50 Best Restaurants |article2 = Noma (restaurant) | blurb = Noma in Copenhagen, Denmark is voted best restaurant in the world by [[Restaurant (magazine)|''Restaurant'']] for the third year in succession  | sources = http://www.guardian.co.uk/lifeandstyle/2012/apr/30/worlds-50-best-restaurants-2012-noma| updated = yes | updated2 = | nominator = Yorkshiresky <!-- Do NOT change this --> | updater = <!-- Should be filled with the username of the person who has contributed the most to updates. --> | ITNR = no | minority = yes | note = <!-- Can be used to note potential problems with the nomination or article. --> | nom cmt = Gastronomy rarely makes it on to the front page and in this field the award is the culinary equivalent of an Oscar or Booker prize| sign = --[[User:Yorkshiresky|yorkshiresky]] ([[User talk:Yorkshiresky|talk]]) 22:54, 30 April 2012 (UTC) <!-- Do NOT change this --> }}
+{{ITN candidate 
+|  article=The World's 50 Best Restaurants 
+| article2 = Noma (restaurant) 
+| blurb = Noma in Copenhagen, Denmark is voted best restaurant in the world by [[Restaurant (magazine)|''Restaurant'']] for the third year in succession  
+| sources = http://www.guardian.co.uk/lifeandstyle/2012/apr/30/worlds-50-best-restaurants-2012-noma
+| updated = yes 
+| updated2 = 
+| nominator = Yorkshiresky <!-- Do NOT change this --> 
+| updater = <!-- Should be filled with the username of the person who has contributed the most to updates. --> 
+| ITNR = no 
+| minority = yes 
+| note = <!-- Can be used to note potential problems with the nomination or article. --> 
+| nom cmt = Gastronomy rarely makes it on to the front page and in this field the award is the culinary equivalent of an Oscar or Booker prize
+| sign = --[[User:Yorkshiresky|yorkshiresky]] ([[User talk:Yorkshiresky|talk]]) 22:54, 30 April 2012 (UTC) <!-- Do NOT change this --> 
+}}
 *'''Support;''' this sounds like an interesting topic for ITN, minority+Food/Drink related, yay --[[User:Τασουλα|Τασουλα]] ([[User talk:Τασουλα|talk]]) 23:05, 30 April 2012 (UTC)
 *'''Oppose'''. The top three is the same as last year and only two of the top ten were not in the top ten last year, which sort of means it fails to put the "new" into "news", IMO. [[User:FormerIP|Formerip]] ([[User talk:FormerIP|talk]]) 23:41, 30 April 2012 (UTC)
 *'''Support'''- Food and drink is rarely, if ever, posted on ITN, and gastronomy is the most current aspect of that major topic. This story also represents the continued rise of [[New Nordic cuisine]] which is a significant newsworthy aspect of it. Also, I updated both articles, so they should both be bold in the blurb. [[User:Bzweebl|<font color="#D60047">B</font><font color="#F0A000">zw</font><font color="#00A300">ee</font><font color="#0A47FF">bl</font>]]  ([[User talk:Bzweebl|talk]]) 00:11, 1 May 2012 (UTC)
@@ -613,7 +640,14 @@ I don't have any issue with removing the reference to Norway. __[[User:Meco|meco
 :::This is an insidious post unilaterally decided on the whim of an admnin who then says "why is it so difficult [to understand my posting]? are you kidding? ITN is not for admins to decide on their own what suits them?[[User:Lihaas|Lihaas]] ([[User talk:Lihaas|talk]]) 21:34, 25 April 2012 (UTC)
 
 ====[[Philip Humber's perfect game]]====
-{{ITN candidate|article=Philip Humber's perfect game|blurb=[[Chicago White Sox]] pitcher [[Philip Humber]] '''[[Philip Humber's perfect game|throws]]''' the 21st [[perfect game]] in [[Major League Baseball]] history.|nominator=Strange Passerby|updater=Muboshgu|nom cmt=This will be fairly contentious (I remember the discussions after the last perfect game), but it remains true that in over 100 years of baseball, this is still only the 21st perfect game. (For what it's worth, '''support'''.)|sign=—[[User:Strange Passerby|Strange Passerby]] ([[User talk:Strange Passerby|talk]] • [[Special:Contributions/Strange Passerby|cont]]) 22:45, 21 April 2012 (UTC)}}
+{{ITN candidate
+|article=Philip Humber's perfect game
+|blurb=[[Chicago White Sox]] pitcher [[Philip Humber]] '''[[Philip Humber's perfect game|throws]]''' the 21st [[perfect game]] in [[Major League Baseball]] history.
+|nominator=Strange Passerby
+|updater=Muboshgu
+|nom cmt=This will be fairly contentious (I remember the discussions after the last perfect game), but it remains true that in over 100 years of baseball, this is still only the 21st perfect game. (For what it's worth, '''support'''.)
+|sign = —[[User:Strange Passerby|Strange Passerby]] ([[User talk:Strange Passerby|talk]] • [[Special:Contributions/Strange Passerby|cont]]) 22:45, 21 April 2012 (UTC)
+}}
 :i see a [[WP:SNOW|snowball]] falling... -- [[User:Ashishg55|Ashish]][[User talk:Ashishg55|-g55]] 22:54, 21 April 2012 (UTC)
 
 *'''Support''', as an obviously rare and noteworthy accomplishment (as with the 100 cricket centuries or the skateboarding 1080). However, it's really premature to call [[WP:SNOW]] before a single !vote has been cast. [[User:AlexTiefling|AlexTiefling]] ([[User talk:AlexTiefling|talk]]) 22:58, 21 April 2012 (UTC)
@@ -1088,7 +1122,11 @@ Again, I apoligize if this is not the correct area to address this broader issue
 
 ====[[World Tomorrow]]====
 
-{{ITN candidate|article=World Tomorrow|blurb=*[[Hezbollah]] leader, [[Hassan Nasrallah]], appears in his first interview with the West in six years, in the first episode of a new interview show ''The [[World Tomorrow]]'', hosted by [[Julian Assange]].  He also made a major announcement on the show: that he would act as a mediator in the Syrian conflict.  [http://www.nydailynews.com/news/world/wikileaks-founder-julian-assange-launches-talk-show-world-tomorrow-hezbollah-leader-guest-article-1.1062944 (NYDailyNews)] [http://edition.cnn.com/2012/04/17/world/europe/russia-wikileaks/?hpt=ieu_c2 (CNN)] [http://www.bbc.co.uk/news/world-middle-east-17747745 (BBC)] [http://news.smh.com.au/breaking-news-technology/assange-interviews-hezbollah-leader-in-tv-premiere-20120418-1x61w.html (SMH)] [http://www.abc.net.au/news/2012-04-17/assange-interviews-hezbollah-chief-in-russian-tv-debut/3956688 (ABC)] [http://www.google.com/hostednews/afp/article/ALeqM5hxnFZy-joBkoEFyxfYxyYC4iBmHg?docId=CNG.c08c8e622e39bd7dadcc8f751204f895.4a1 (AFP)], the new TV show was already in the news across the world, but the appearance of this notorious guest has been given even broader coverage.  The sources given above are just a selection.| sign=--[[User:Gregcaletta|Gregcaletta]] ([[User talk:Gregcaletta|talk]]) 03:07, 17 April 2012 (UTC)}} 
+{{ITN candidate
+|article=World Tomorrow
+|blurb=*[[Hezbollah]] leader, [[Hassan Nasrallah]], appears in his first interview with the West in six years, in the first episode of a new interview show ''The [[World Tomorrow]]'', hosted by [[Julian Assange]].  He also made a major announcement on the show: that he would act as a mediator in the Syrian conflict.  [http://www.nydailynews.com/news/world/wikileaks-founder-julian-assange-launches-talk-show-world-tomorrow-hezbollah-leader-guest-article-1.1062944 (NYDailyNews)] [http://edition.cnn.com/2012/04/17/world/europe/russia-wikileaks/?hpt=ieu_c2 (CNN)] [http://www.bbc.co.uk/news/world-middle-east-17747745 (BBC)] [http://news.smh.com.au/breaking-news-technology/assange-interviews-hezbollah-leader-in-tv-premiere-20120418-1x61w.html (SMH)] [http://www.abc.net.au/news/2012-04-17/assange-interviews-hezbollah-chief-in-russian-tv-debut/3956688 (ABC)] [http://www.google.com/hostednews/afp/article/ALeqM5hxnFZy-joBkoEFyxfYxyYC4iBmHg?docId=CNG.c08c8e622e39bd7dadcc8f751204f895.4a1 (AFP)], the new TV show was already in the news across the world, but the appearance of this notorious guest has been given even broader coverage.  The sources given above are just a selection.
+| sign=--[[User:Gregcaletta|Gregcaletta]] ([[User talk:Gregcaletta|talk]]) 03:07, 17 April 2012 (UTC)
+}} 
 :? -- [[User:Ashishg55|Ashish]][[User talk:Ashishg55|-g55]] 06:04, 17 April 2012 (UTC)
 :'''Strong Oppose''' Promoting a television show should have no place in ITN. -- [[User:Anc516|Anc516]] ([[User talk:Anc516|talk]] • [[Special:Contributions/Anc516|cont]]) 07:40, 17 April 2012 (UTC)
 *'''Oppose''': promotion for a TV show. --[[User:RJFF|RJFF]] ([[User talk:RJFF|talk]]) 08:02, 17 April 2012 (UTC)
@@ -2020,7 +2058,13 @@ It's a short article, but a fascinating subject and a minority topic. ''(This is
 
 ===[Posted] Mali update===
 [[File:Northern_Mali_conflict.svg|200px|right]]
-{{ITN candidate |article=Azawad |blurb=[[Mali]]'s [[National Movement for the Liberation of Azawad|Azawad National Liberation Movement]] '''[[Tuareg rebellion (2012)|declares an end]]''' to military activities, while also [[Azawad Declaration of Independence|declaring]] the new state of '''[[Azawad]]'''. — <small>''(We could use [[:File:MNLA flag.svg]], too)''.</small> |sources=[http://www.aljazeera.com/news/africa/2012/04/20124644412359539.html Al Jazeera], [http://www.bbc.co.uk/news/world-africa-17635437 BBC News], [http://www.nytimes.com/2012/04/07/world/africa/mali-rebels-proclaim-independent-state-in-north.html NY Times] |nominator=Lihaas }}
+{{ITN candidate 
+|article=Azawad 
+|blurb=[[Mali]]'s [[National Movement for the Liberation of Azawad|Azawad National Liberation Movement]] '''[[Tuareg rebellion (2012)|declares an end]]''' to military activities, while also [[Azawad Declaration of Independence|declaring]] the new state of '''[[Azawad]]'''. — <small>''(We could use [[:File:MNLA flag.svg]], too)''.</small> 
+|sources=[http://www.aljazeera.com/news/africa/2012/04/20124644412359539.html Al Jazeera], [http://www.bbc.co.uk/news/world-africa-17635437 BBC News], [http://www.nytimes.com/2012/04/07/world/africa/mali-rebels-proclaim-independent-state-in-north.html NY Times] 
+|nominator=Lihaas 
+|sign= [[User:Lihaas|Lihaas]] ([[User talk:Lihaas|talk]]) 13:37, 5 April 2012 (UTC)
+}}
 
 the MNLA call off their offensive after saying they have captured whar they sought (no word on AD though). Its worthy of an update to the blurb and the aticle is updated. One can add "After the capture of the frontier town of [[Douentza]] [[User:Lihaas|Lihaas]] ([[User talk:Lihaas|talk]]) 13:37, 5 April 2012 (UTC)
 *'''Comments''' How about: ''[[Mali]]'s [[Azawad National Liberation Movement]] '''[[Tuareg rebellion (2012)|declares an end]]''' to military activities claiming that they have captured enough territory to form [[Azawad|their own state]].'' --[[User:BorgQueen|BorgQueen]] ([[User talk:BorgQueen|talk]]) 00:37, 6 April 2012 (UTC)
