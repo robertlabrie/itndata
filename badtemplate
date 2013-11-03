@@ -3,3 +3,4 @@ grep -i "ITN Candidate" $1 | grep "|"
 grep -i "ITN_Candidate" $1 
 grep -i "Jehochman" $1 | grep -i post | grep -v -i "'''post"
 grep -i "Tone" $1 | grep -i post | grep -v -i "'''post"
+grep -i "ThaddeusB" $1 | grep -i post | grep -v -i "'''post"
