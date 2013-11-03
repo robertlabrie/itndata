@@ -2529,44 +2529,6 @@ That was the greatest sporting event I have ever seen in my life. Period. '''[[U
 ****I'm sorry, I explicitly stated that many other users have voiced their opposition to current ITNR guidelines. Please do not construe this as "my personal will". [[User:Colipon|Colipon]]+<small>([[User talk:Colipon|Talk]])</small> 18:36, 9 May 2012 (UTC)
 :Wheres the prose update requireD? Granted its better than the non-existant French update but its highly selective on ITN what constitutes an update![[User:Lihaas|Lihaas]] ([[User talk:Lihaas|talk]]) 03:36, 10 May 2012 (UTC)
 
-====Syrian election====
-{{ITN candidate
-| article      = Syrian parliamentary election, 2012
-| article2     = 
-| blurb        = X '''[[Syrian parliamentary election, 2012|wins a plurality/majority]]''' in Syria.
-| sources      = 
-| updated      = no
-| updated2     = 
-| nominator    = Lihaas
-| updater      = 
-| updater2     = 
-| updater3     = 
-| ITNR         = yes
-| minority     =
-| note         = 
-| nom cmt      = 
-| sign         = [[User:Lihaas|Lihaas]] ([[User talk:Lihaas|talk]]) 10:42, 7 May 2012 (UTC)
-}}
-*'''Oppose''' we shouldn't be posting rigged elections.  <span style="background:#66EE88">'''[[User talk:Hot Stop|<span style="font-family: comic sans ms,sans-serif;"><span style="color:#FFFFFF">Hot Stop</span></span>]]'''</span> 13:58, 7 May 2012 (UTC)
-::It's not our place to judge whether it's rigged or not, but we can edit the blurb to say that it's been condemned by international observers. --[[User:Tyrannus Mundi|Tyrannus Mundi]] ([[User talk:Tyrannus Mundi|talk]]) 14:13, 7 May 2012 (UTC)
-:::Agree with Tyrannus Mundi. I checked the archives; for the 2010 Myanmar elections, the blurb read as follows: "Opposition parties concede defeat to the military-backed Union Solidarity and Development Party in Burma's first elections for 20 years, after the National League for Democracy boycotts the elections." I guess something in a similar vein could be written for the Syrian "elections". [[User:Khuft|Khuft]] ([[User talk:Khuft|talk]]) 19:07, 7 May 2012 (UTC)
-*'''Comment''' Given that elections are on ITN/R, I don't see the value in posting them to ITN/C before the relevant articles have been updated. —[[User talk:WaitingForConnection|WFC]]—  19:28, 7 May 2012 (UTC)
-*'''Comment''' I find it ironic that some users oppose the election ticker because it lends "undue weight" to elections, yet the current ITN has effectively ''become'' an election ticker - give that 4/6 (and soon 5/6) stories are elections-related! Utterly absurd. [[User:Colipon|Colipon]]+<small>([[User talk:Colipon|Talk]])</small> 19:33, 7 May 2012 (UTC)
-:*The difference being, that after a few days all these elections will have disappeared from ITN, while the Election Ticker will always be there, even when there are no current elections of note. [[User:Khuft|Khuft]] ([[User talk:Khuft|talk]]) 19:42, 7 May 2012 (UTC)
-::*That seems fair until you take a look at the [[National_electoral_calendar_2012]]; if there are not changes to ITNR guidelines, and if I'm doing my calculations correctly, an election will ''always'' be part of ITN at 80-90% of the time during the year in ITN. In fact this year we have hardly had an ITN template that did not include an election of one sort or another since Kiribati! [[User:Colipon|Colipon]]+<small>([[User talk:Colipon|Talk]])</small> 19:50, 7 May 2012 (UTC)
-:::*If you want to discuss the ticker, do it in the relevant section. --[[User:Tyrannus Mundi|Tyrannus Mundi]] ([[User talk:Tyrannus Mundi|talk]]) 12:57, 8 May 2012 (UTC)
-*'''Support without clause pending update''' it's not up to us to decide what elections are legitimate and which aren't. The fact is that the Syrian election will receive more international attention than the Serbian election (or some bloke kicking a ball into a net 60 times), and we owe it to WP readers to post material that they are actually interested in. --[[Special:Contributions/98.203.99.251|98.203.99.251]] ([[User talk:98.203.99.251|talk]]) 20:48, 7 May 2012 (UTC)
-:*(that bit in brackets ''should'' be the case, but probably won't be)
-*'''Support''' pending results and sufficient article update. It seems ludicrous to discount an election because some observers view it as being rigged. And honestly, will anyone listen to Colipon about the ticker? The opposition arguments are not very strong in my opinion (although I will admit I'm biased). [[User:Bzweebl|<font color="#D60047">B</font><font color="#F0A000">zw</font><font color="#00A300">ee</font><font color="#0A47FF">bl</font>]]  ([[User talk:Bzweebl|talk]]) 22:51, 7 May 2012 (UTC)
-**'''Comment''' Yes, the [[Russian legislative election, 2011]] was marred by allegations of fraud but nobody suggested that we pull it because of that fact. [[User:Hbdragon88|hbdragon88]] ([[User talk:Hbdragon88|talk]]) 01:13, 8 May 2012 (UTC)
-**As I noted above, discuss the ticker in the relevant section instead of spilling it into every election nomination. --[[User:Tyrannus Mundi|Tyrannus Mundi]] ([[User talk:Tyrannus Mundi|talk]]) 12:58, 8 May 2012 (UTC)
-*'''Support'''. No less important than any of the other elections the last couple of days. __[[User:Meco|meco]] ([[User talk:Meco|talk]]) 21:17, 8 May 2012 (UTC)
-*'''Support''' whenever official results are available, with a blurb that highlights the controversial aspect of the election. [[User:Khuft|Khuft]] ([[User talk:Khuft|talk]]) 23:04, 8 May 2012 (UTC)
-::The article can highlight the controversy. --[[Special:Contributions/98.203.99.251|98.203.99.251]] ([[User talk:98.203.99.251|talk]]) 23:19, 8 May 2012 (UTC)
-:::Agreed. No need for the blurb to address anything other than results. '''[[User:Bzweebl|<font color="#D60047">B</font><font color="#F0A000">zw</font><font color="#00A300">ee</font><font color="#0A47FF">bl</font>]]'''  ([[User talk:Bzweebl|talk]]) 23:24, 8 May 2012 (UTC)
-::::esults due [http://news.xinhuanet.com/english/world/2012-05/09/c_123097392.htm soon][[User:Lihaas|Lihaas]] ([[User talk:Lihaas|talk]]) 12:08, 10 May 2012 (UTC)
-*Is there a way that this can be saved so that it will not be deleted by AnomieBot tomorrow? '''[[User:Bzweebl|<font color="#D60047">B</font><font color="#F0A000">zw</font><font color="#00A300">ee</font><font color="#0A47FF">bl</font>]]'''  ([[User talk:Bzweebl|talk]]) 02:36, 11 May 2012 (UTC)
-
 ====[Posted] Snooker World Championship====
 {{ITN candidate
 | article      = 2012 World Snooker Championship| article2     = 
