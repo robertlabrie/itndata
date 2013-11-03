@@ -506,7 +506,7 @@ Experts discover a '''[[Flame (malware)|complex cyber-attack]]''' targeting Midd
 | article      = Lesotho general election, 2012
 | blurb        = The incumbent [[Democratic Congress]] '''[[Lesotho general election, 2012|wins]]''' a plurality in the Lesotho parliamentary election.
 | nominator    = Lihaas
-| updator    = Lihaas 
+| updater    = Lihaas 
 | updated    = yes
 | ITNR         = yes
 | note         = Indications are the ABC will win the plurality but just awaiting rural votes which will be confirmed tomorrow (or Tuesday). Article updated so far and expanded as well...just need to fix th einfobox to create the metatags.
