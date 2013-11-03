@@ -1690,7 +1690,13 @@ At least six people were killed after an earthquake in Emilia-Romagna. - <font f
 *'''Thank God''' for the first science post in eons! [[User:Colipon|Colipon]]+<small>([[User talk:Colipon|Talk]])</small> 19:38, 17 May 2012 (UTC)
 
 ====[Posted] Greek legislative election, June 2012====
-{{ITN candidate|article=Greek legislative election, June 2012|article2=Greek government-debt crisis|blurb=After failing to form a [[Greece|Greek]] government following the [[Greek legislative election, May 2012|May 6 election]], '''[[Greek legislative election, June 2012|new elections are scheduled for 17 June]]'''. Due to the lack of resolution to the '''[[Greek government-debt crisis]]''', a slow [[bank run]] is taking place, and a Greek exit from the [[Eurozone]] is feared.|updated=yes}}
+{{ITN candidate
+| article=Greek legislative election, June 2012
+| article2=Greek government-debt crisis
+| blurb=After failing to form a [[Greece|Greek]] government following the [[Greek legislative election, May 2012|May 6 election]], '''[[Greek legislative election, June 2012|new elections are scheduled for 17 June]]'''. Due to the lack of resolution to the '''[[Greek government-debt crisis]]''', a slow [[bank run]] is taking place, and a Greek exit from the [[Eurozone]] is feared.
+| updated=yes
+| sign= --[[User:Thue|Thue]] | [[User talk:Thue|talk]] 14:48, 16 May 2012 (UTC)
+}}
 Things are looking really bleak for Greece, with a Euro exit possible. Some think such an exit will have major consequences for the Euro itself. This is front-page material on most newspapers. [[User:Thue|Thue]] | [[User talk:Thue|talk]] 14:48, 16 May 2012 (UTC)
 *'''Support''', but condense blurb. We've never posted two-sentence blurbs. —[[User:Strange Passerby|Strange Passerby]] ([[User talk:Strange Passerby|talk]] • [[Special:Contributions/Strange Passerby|cont]]) 14:49, 16 May 2012 (UTC)
 **Perhaps they could simply be posted as two different blurbs? [[User:Thue|Thue]] | [[User talk:Thue|talk]] 16:44, 16 May 2012 (UTC)
@@ -1703,7 +1709,11 @@ Things are looking really bleak for Greece, with a Euro exit possible. Some thin
 ::This just isn't a scheduled election, it's a fresh set of new ones following the inability of the current parties to form a coalition.  That, not just the elections themselves, is the most notable part. [[User:Hbdragon88|hbdragon88]] ([[User talk:Hbdragon88|talk]]) 21:01, 17 May 2012 (UTC)
 
 ====Trial of Ratko Mladić====
-{{ITN candidate|article=The Prosecutor v. Ratko Mladić|blurb=The '''[[The Prosecutor v. Ratko Mladić|trial of Ratko Mladić]]''', accused of [[genocide]] for his role in the 1995 [[Srebrenica massacre]] in [[Bosnia and Herzegovina]], gets underway in [[The Hague]].}}
+{{ITN candidate
+| article=The Prosecutor v. Ratko Mladić
+| blurb=The '''[[The Prosecutor v. Ratko Mladić|trial of Ratko Mladić]]''', accused of [[genocide]] for his role in the 1995 [[Srebrenica massacre]] in [[Bosnia and Herzegovina]], gets underway in [[The Hague]].
+| sign = --[[User:Prioryman|Prioryman]] ([[User talk:Prioryman|talk]]) 07:09, 16 May 2012 (UTC)
+}}
 
 Nominator's comments: Big news internationally today, and a subject of considerable interest in terms of Wikipedia coverage. [[User:Prioryman|Prioryman]] ([[User talk:Prioryman|talk]]) 07:09, 16 May 2012 (UTC)
 :'''Wait''' for outcome of trial. <strong>[[User:AroundTheGlobe|<span style="font-family:Script MT Bold;color:DarkBlue">Around The Globe</span>]]</strong>[[User_talk:AroundTheGlobe|<sup><span style="font-family:Verdana;color:Gray">सत्यमेव जयते</span></sup>]] 07:33, 16 May 2012 (UTC)
@@ -2181,7 +2191,12 @@ That was the greatest sporting event I have ever seen in my life. Period. '''[[U
 ***Keep reading: "Egypt's Minister of International Cooperation, Fayza Aboul-Naga, said the deposit is for eight years and is part of Riyadh's previous commitment to Egypt." Much of the "aid" Egypt is "receiving" from Saudi Arabia was agreed to prior to this diplomatic incident. The source does not explicitly tie the incident and the aid. And like I said before, Saudi Arabia is not "beginning to send 2.7 billion in aid" - the 2.7 billion is part of a financial aid package, a sizable chunk of which includes the purchase of Egyptian treasury bills. This really isn't a huge story, I wish more discussion was allowed before posting. [[User:Wikifan12345|<span style="color:#6E6D6D">Wikifan</span>]]<sup><small>[[User_talk:Wikifan12345|Be nice]]</small></sup>  21:20, 13 May 2012 (UTC)
 
 ====Gunnar Sønsteby====
-{{ITN candidate|article=Gunnar Sønsteby|blurb=[[Norwegian resistance movement|Norwegian resistance]] leader [[Gunnar Sønsteby]] dies at the age of 94.|nominator=Lampman|nom cmt=Most highly decorated Norwegian in history, his contribution to the resistance is indisputable. It would be a good opportunity to feature a non-Anglo-American item. Also, there is a Featured Picture to accompany the blurb.|sign=[[User:Lampman|Lampman]] ([[User talk:Lampman|talk]]) 21:45, 10 May 2012 (UTC)}}
+{{ITN candidate
+| article=Gunnar Sønsteby
+| blurb=[[Norwegian resistance movement|Norwegian resistance]] leader [[Gunnar Sønsteby]] dies at the age of 94.
+| nominator=Lampman|nom cmt=Most highly decorated Norwegian in history, his contribution to the resistance is indisputable. It would be a good opportunity to feature a non-Anglo-American item. Also, there is a Featured Picture to accompany the blurb.
+| sign=[[User:Lampman|Lampman]] ([[User talk:Lampman|talk]]) 21:45, 10 May 2012 (UTC)
+}}
 
 *'''Question'''- I have never heard of him, so I'm not quite sure what to make of this nom yet. It would help if you posted some sources proving his death's effect on current events, because just proving how important of a person he was is irrelevant to any death criteria. '''[[User:Bzweebl|<font color="#D60047">B</font><font color="#F0A000">zw</font><font color="#00A300">ee</font><font color="#0A47FF">bl</font>]]'''  ([[User talk:Bzweebl|talk]]) 23:12, 10 May 2012 (UTC)
 *:Seems to only have started making rounds, here's [http://www.telegraph.co.uk/news/obituaries/military-obituaries/special-forces-obituaries/9258278/Gunnar-Sonsteby.html one] from ''The Telegraph'' to show it's made Anglosphere news but it's the only one I saw without resorting to digging. FWIW I'd support with a some further news stories to back it up, the most decorated war hero of a nation is probably a better news story to stick up there than a guy who (re)invented a haircut. [[User:Grapple X|<span style="color:#556655"><small>'''GRAPPLE'''</small></span>]] [[User talk:Grapple X|<span style="color:#556655"><small>'''X'''</small></span>]] 23:17, 10 May 2012 (UTC)
@@ -2794,7 +2809,7 @@ The current state of the postings is undesirable to most. I have revamped the el
 *'''Support'''. [http://www.bbc.co.uk/news/world-europe-17975660 BBC] are calling it, too. Seems to be accepted across the board. [[User:Grapple X|<span style="color:#556655"><small>'''GRAPPLE'''</small></span>]] [[User talk:Grapple X|<span style="color:#556655"><small>'''X'''</small></span>]] 18:50, 6 May 2012 (UTC)
 *'''Support''' Nicolas Sarkozy has conceded on French TV. [[User:Khuft|Khuft]] ([[User talk:Khuft|talk]]) 18:51, 6 May 2012 (UTC)
 *'''Support''' Several news sources and agencies have declared his victory. Article in great shape and updated. --[[User:Hydrox|hydrox]] ([[User talk:Hydrox|talk]]) 18:57, 6 May 2012 (UTC)
-: Posting. Enough update at this point. We should add the photo as well. --'''[[User:Tone|Tone]]''' 19:02, 6 May 2012 (UTC)
+: '''Posting'''. Enough update at this point. We should add the photo as well. --'''[[User:Tone|Tone]]''' 19:02, 6 May 2012 (UTC)
 ::Elections results ALWAYS need a prose update (Reactions, etc) and confirmed results which has by precedence been grounds for WAITING on the result. All the support in the world doesnt mean anything for ITNR (which doesnt need any support or oppose (other that on the update)). Currently there is NO UPDATE whatsoever and nothing confirmed. The 1-line on the lead is also unsourced and says "projected"! '''PULL ASAP''' -- What quantifies this as "enough update"[[User:Lihaas|Lihaas]] ([[User talk:Lihaas|talk]]) 20:08, 6 May 2012 (UTC)
 *'''Pull''' (though a bit less melodramatically than above) - the body of the article hasn't taken into account the second-round results at all. --[[User:Tyrannus Mundi|Tyrannus Mundi]] ([[User talk:Tyrannus Mundi|talk]]) 21:40, 6 May 2012 (UTC) &mdash; More than that, as far as I can tell the vote counting has not finished yet at all and the results given are merely an estimate. --[[User:Tyrannus Mundi|Tyrannus Mundi]] ([[User talk:Tyrannus Mundi|talk]]) 21:56, 6 May 2012 (UTC)
 ::The update's fine.  <span style="background:#66EE88">'''[[User talk:Hot Stop|<span style="font-family: comic sans ms,sans-serif;"><span style="color:#FFFFFF">Hot Stop</span></span>]]'''</span> 00:58, 7 May 2012 (UTC)
