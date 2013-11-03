@@ -2511,7 +2511,7 @@ BTW - you're welcome, rest of world, for this site. Geeze.
 {{ITN candidate
 | article=National League for Democracy
 | blurb=The '''[[National League for Democracy]]''', led by [[Aung San Suu Kyi]], reportedly wins all 44 seats it contested in [[Burmese by-elections, 2012|by-elections]] for the [[Pyidaungsu Hluttaw|Burmese Parliament]].
-| source = [http://www.telegraph.co.uk/news/worldnews/asia/burmamyanmar/9180175/Landslide-victory-for-Aung-San-Suu-Kyi-sets-Burmese-nerves-on-edge.html Telegraph]
+| sources = [http://www.telegraph.co.uk/news/worldnews/asia/burmamyanmar/9180175/Landslide-victory-for-Aung-San-Suu-Kyi-sets-Burmese-nerves-on-edge.html Telegraph]
 | updated = no
 | nominator = Strange Passerby
 | nom cmt = I think this is a much more significant story than just ASSK herself — The Telegraph reports that her party has reportedly won 43 of the 44 seats it contested, and are likely to win the other one too. That is a more important story here than just ASSK being elected.
