@@ -3519,7 +3519,7 @@ Again, I struck by the lunacy of all of this and just don’t need the stress! I
 | article      = Hosni Mubarak
 | blurb        = Former [[Egyptian president]] '''[[Hosni Mubarak]]''' is sentenced to life imprisonment for complicity in the killings of demonstrators in the [[2011 Egyptian revolution|2011 revolution]].
 | updated = yes
-| souces = [http://www.bbc.co.uk/news/world-middle-east-18306126 (BBC)] 
+| sources = [http://www.bbc.co.uk/news/world-middle-east-18306126 (BBC)] 
 | nominator = BorgQueen
 }} 
 
