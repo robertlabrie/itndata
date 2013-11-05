@@ -564,7 +564,7 @@ Searches on Google News for "Algo Centre" in quotation marks bring up [https://w
 {|{{Portal:Current events/2012 June 25}}
 {{cob}}
 ----
-====United States Supreme Court rulings====
+====United States Supreme Court rulings - SB 1070 ====
 These nominations have been broken up into sections for the purposes of clarity.  I'll leave it to the posting admin to determine whether they should be re-merged on the template if more than one goes up. [[User:Crispmuncher|Crispmuncher]] ([[User talk:Crispmuncher|talk]]) 15:43, 25 June 2012 (UTC)
 *'''Comment''' - The idea of ITN is to alert users as to how the content of the encyclopaedia has been changed or added to as a result of recent events. At the time of writing, none of these nominations have an associated article. These need to be assigned before the candidates can be assessed. [[User:LukeSurl|LukeSurl]]<sup> [[User Talk:LukeSurl|t]] [[Special:Contributions/LukeSurl|c]]</sup> 19:21, 25 June 2012 (UTC)
 :*I am assuming the articles will be the cases themselves. That would be the only possibility that would make sense. '''[[User:Bzweebl|<font color="#D60047">B</font><font color="#F0A000">zw</font><font color="#00A300">ee</font><font color="#0A47FF">bl</font>]]'''  ([[User talk:Bzweebl|talk]] • [[Special:Contributions/Bzweebl|contribs]]) 21:01, 25 June 2012 (UTC)
@@ -595,6 +595,9 @@ These nominations have been broken up into sections for the purposes of clarity.
 ***Yes, but this is heading for the main page.  It should be intelligible beyond clicking on abstract blue links.  It's not "my problem", I'm asking what this actually means because we're a global website and this is not accessible at all.  Please revisit the blurb and let us understand why anyone outside of Arizona should give a damn.  [[User:The Rambling Man|The Rambling Man]] ([[User talk:The Rambling Man|talk]]) 21:07, 25 June 2012 (UTC)
 *'''Oppose'''- Every year there are rulings more important than this. '''[[User:Bzweebl|<font color="#D60047">B</font><font color="#F0A000">zw</font><font color="#00A300">ee</font><font color="#0A47FF">bl</font>]]'''  ([[User talk:Bzweebl|talk]] • [[Special:Contributions/Bzweebl|contribs]]) 21:01, 25 June 2012 (UTC)
 *'''Oppose'''. Of purely local significance and ITN is not a legal digest. [[User:FormerIP|Formerip]] ([[User talk:FormerIP|talk]]) 01:24, 26 June 2012 (UTC)
+
+====United States Supreme Court rulings - juvenile offenders ====
+
 {{ITN candidate
 | article      = <!-- Do not wikilink -->
 | article2     = <!-- Do not wikilink - leave blank if nominating only one article -->
@@ -620,6 +623,7 @@ These nominations have been broken up into sections for the purposes of clarity.
 *'''Oppose'''. Per my oppose above. [[User:FormerIP|Formerip]] ([[User talk:FormerIP|talk]]) 01:24, 26 June 2012 (UTC)
 *'''Support''' - iff the article gained +1000 words, rationale- the US maybe "finally catching up with the civilized world." [[User:Unique Ubiquitous|Unique Ubiquitous]] ([[User talk:Unique Ubiquitous|talk]]) 03:35, 26 June 2012 (UTC)
 
+====United States Supreme Court rulings - obama care ====
 {{ITN candidate
 | article      = <!-- Do not wikilink -->
 | article2     = <!-- Do not wikilink - leave blank if nominating only one article -->
