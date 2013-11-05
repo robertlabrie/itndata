@@ -1671,7 +1671,7 @@ Re-nom per suggestion below. [[User:Yellow Evan|Y]][[User talk:Yellow Evan|E]]  
 |nominator = Thue
 |updater =
 |updater2 =
-|updater 3=
+|updater3=
 |ITNR = 
 |minority =
 |note =
@@ -1730,7 +1730,7 @@ Re-nom per suggestion below. [[User:Yellow Evan|Y]][[User talk:Yellow Evan|E]]  
 |nominator = Lihaas
 |updater =
 |updater2 =
-|updater 3=
+|updater3=
 |ITNR = yes
 |minority =
 |note =
