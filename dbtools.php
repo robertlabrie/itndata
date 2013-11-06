@@ -22,7 +22,7 @@ if ($argv[1] == "countrymap")
 if ($argv[1] == "delete")
 {
 	mysqli_query($hd,"delete from tmp_noms where country = 'delete'");
-
+	mysqli_query($hd,"delete from tmp_vote where hash not in (select nhash from tmp_noms);")
 }
 
 if ($argv[1] == 'backup')
