@@ -4,3 +4,4 @@ grep -n -i --color "ITN_Candidate" $1
 grep -n -i --color "Jehochman" $1 | grep -i post | grep -v -i "'''post"
 grep -n -i --color "Tone" $1 | grep -i post | grep -v -i "'''post"
 grep -n -i --color "ThaddeusB" $1 | grep -i post | grep -v -i "'''post"
+grep "======" $1
